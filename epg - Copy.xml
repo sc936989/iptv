@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv generator-info-name="@techiesneh" generator-info-url="https://instagram.com/techiesneh">
+	<channel id="ts405">
+		<display-name>MTV Beats HD</display-name>
+		<icon src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11607-j9jznhvc-v1/imageContent-11607-j9jznhvc-m1.png"></icon>
+	</channel>
+	<channel id="ts405">
+		<display-name>MTV Beats HD</display-name>
+		<icon src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11607-j9jznhvc-v1/imageContent-11607-j9jznhvc-m1.png"></icon>
+	</channel>
+	<channel id="ts405">
+		<display-name>MTV Beats HD</display-name>
+		<icon src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11607-j9jznhvc-v1/imageContent-11607-j9jznhvc-m1.png"></icon>
+	</channel>
+	<channel id="ts15">
+		<display-name>SET HD</display-name>
+		<icon src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43-j5fca4k0-v3/imageContent-43-j5fca4k0-m4.png"></icon>
+	</channel>
+	<channel id="ts15">
+		<display-name>SET HD</display-name>
+		<icon src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43-j5fca4k0-v3/imageContent-43-j5fca4k0-m4.png"></icon>
+	</channel>
+	<channel id="ts15">
+		<display-name>SET HD</display-name>
+		<icon src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43-j5fca4k0-v3/imageContent-43-j5fca4k0-m4.png"></icon>
+	</channel>
+	<programme start="20240926183000 +0000" stop="20240926233000 +0000" channel="ts405" catchup-id="69171036">
+		<title>Night Shift</title>
+		<desc>A refreshing compilation of melodious and catchy songs performed by several artists, musicians and songwriters played back to back.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1F856513803BC376B36B2605610B5F383DDD206B3.jpg"></icon>
+	</programme>
+	<programme start="20240926233000 +0000" stop="20240927003000 +0000" channel="ts405" catchup-id="69171032">
+		<title>Dama Dam Beats</title>
+		<desc>A comprehensive compilation of some of the hit songs composed by famous artists and musicians from all around the world are played back to back.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/779492DC3A6F8E827D7164735F235863AA4AACF5H.jpg"></icon>
+	</programme>
+	<programme start="20240927003000 +0000" stop="20240927013000 +0000" channel="ts405" catchup-id="69171037">
+		<title>Bhakti Beats</title>
+		<desc>A comprehensive compilation of devotional songs composed by well-known artists is played back to back to enthral the listeners.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/053F2CDA09CF7A628586D97783968A0E1FB811931.jpg"></icon>
+	</programme>
+	<programme start="20240927013000 +0000" stop="20240927023000 +0000" channel="ts405" catchup-id="69171038">
+		<title>Flash Back</title>
+		<desc>An eclectic compilation of melodious and entertaining songs from classic movies featuring popular artists, musicians and singers.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FA86828EB8BBE352BF1BEC0D149AC3CE93F4D5EB0.jpg"></icon>
+	</programme>
+	<programme start="20240927023000 +0000" stop="20240927053000 +0000" channel="ts405" catchup-id="69171031">
+		<title>Hit Mornings</title>
+		<desc>A comprehensive compilation of some of the most popular songs performed by various renowned artists and bands, played back to back.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E57B503F35690F1C95514E9A38C715F6AF3014EI.jpg"></icon>
+	</programme>
+	<programme start="20240927053000 +0000" stop="20240927063000 +0000" channel="ts405" catchup-id="69171025">
+		<title>Sadda Adda</title>
+		<desc>A comprehensive compilation of some of the hit songs composed by famous artists and musicians from all around the world are played back-to-back to enthral the listeners.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1D4B6E4D57F10097ED30346871441C68E4A3A8ECN.jpg"></icon>
+	</programme>
+	<programme start="20240927063000 +0000" stop="20240927070000 +0000" channel="ts405" catchup-id="69171029">
+		<title>Hit Machine</title>
+		<desc>Tune into the latest Indian and international hits.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5796ABA991AE0B591520E316AF78FB0956BF3AC8T.jpg"></icon>
+	</programme>
+	<programme start="20240927070000 +0000" stop="20240927073000 +0000" channel="ts405" catchup-id="69171026">
+		<title>Hit Machine</title>
+		<desc>Tune into the latest Indian and international hits.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5796ABA991AE0B591520E316AF78FB0956BF3AC8T.jpg"></icon>
+	</programme>
+	<programme start="20240927073000 +0000" stop="20240927083000 +0000" channel="ts405" catchup-id="69171024">
+		<title>What The Ishq</title>
+		<desc>The host answers various love and life-related questions from fans and offers advice to those problems, accompanied by special songs.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1DBD2958D00FC173327E6841F4C69031BC193E35F.jpg"></icon>
+	</programme>
+	<programme start="20240927083000 +0000" stop="20240927093000 +0000" channel="ts405" catchup-id="69171023">
+		<title>Flash Back</title>
+		<desc>An eclectic compilation of melodious and entertaining songs from classic movies featuring popular artists, musicians and singers.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FA86828EB8BBE352BF1BEC0D149AC3CE93F4D5EB0.jpg"></icon>
+	</programme>
+	<programme start="20240927093000 +0000" stop="20240927103000 +0000" channel="ts405" catchup-id="69171033">
+		<title>Sadda Adda</title>
+		<desc>A comprehensive compilation of some of the hit songs composed by famous artists and musicians from all around the world are played back-to-back to enthral the listeners.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1D4B6E4D57F10097ED30346871441C68E4A3A8ECN.jpg"></icon>
+	</programme>
+	<programme start="20240927103000 +0000" stop="20240927133000 +0000" channel="ts405" catchup-id="69171035">
+		<title>Selfie Le Le Re</title>
+		<desc>Individuals send in their photographs with interesting descriptions, requestions their favourite songs by popular music artists.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/67F82B1C67B68A6904E0FE992E30DFA3BCB14AF7T.jpg"></icon>
+	</programme>
+	<programme start="20240927133000 +0000" stop="20240927143000 +0000" channel="ts405" catchup-id="69171030">
+		<title>Hit Machine</title>
+		<desc>Tune into the latest Indian and international hits.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5796ABA991AE0B591520E316AF78FB0956BF3AC8T.jpg"></icon>
+	</programme>
+	<programme start="20240927143000 +0000" stop="20240927153000 +0000" channel="ts405" catchup-id="69171027">
+		<title>Wanted On Beats</title>
+		<desc>A comprehensive compilation of popular Bollywood songs featuring a talented playback singer is played in quick succession.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C9230BE5E369DB75DAD324438DDEC275A1540D4FX.jpg"></icon>
+	</programme>
+	<programme start="20240927153000 +0000" stop="20240927173000 +0000" channel="ts405" catchup-id="69171034">
+		<title>Flash Back</title>
+		<desc>An eclectic compilation of melodious and entertaining songs from classic movies featuring popular artists, musicians and singers.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FA86828EB8BBE352BF1BEC0D149AC3CE93F4D5EB0.jpg"></icon>
+	</programme>
+	<programme start="20240927173000 +0000" stop="20240927183000 +0000" channel="ts405" catchup-id="69171028">
+		<title>Dheeme Beats</title>
+		<desc>A compilation of some of the most soothing lo-fi hits composed by popular artists is played back to back to help viewers unwind.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6D3C2E24C8512CB3926C4E79BDC6FE4F23DD08EE2.jpg"></icon>
+	</programme>
+	<programme start="20240926190000 +0000" stop="20240926194000 +0000" channel="ts15" catchup-id="69177261">
+		<title>Best Of Crime Patrol</title>
+		<desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society. E98.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3503CDB9C6639E85B7852CAB704AEA9976A9ABDFP.jpg"></icon>
+	</programme>
+	<programme start="20240926194000 +0000" stop="20240926202000 +0000" channel="ts15" catchup-id="69177246">
+		<title>Best Of Crime Patrol</title>
+		<desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society. E99.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3503CDB9C6639E85B7852CAB704AEA9976A9ABDFP.jpg"></icon>
+	</programme>
+	<programme start="20240926202000 +0000" stop="20240926214000 +0000" channel="ts15" catchup-id="69177243">
+		<title>Best Of Crime Patrol</title>
+		<desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society. E64.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3503CDB9C6639E85B7852CAB704AEA9976A9ABDFP.jpg"></icon>
+	</programme>
+	<programme start="20240926214000 +0000" stop="20240926230000 +0000" channel="ts15" catchup-id="69177256">
+		<title>Best Of Crime Patrol</title>
+		<desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3503CDB9C6639E85B7852CAB704AEA9976A9ABDFP.jpg"></icon>
+	</programme>
+	<programme start="20240926230000 +0000" stop="20240926234000 +0000" channel="ts15" catchup-id="69177244">
+		<title>Best Of Crime Patrol</title>
+		<desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society. E255.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3503CDB9C6639E85B7852CAB704AEA9976A9ABDFP.jpg"></icon>
+	</programme>
+	<programme start="20240926234000 +0000" stop="20240927002000 +0000" channel="ts15" catchup-id="69177262">
+		<title>Best Of Crime Patrol</title>
+		<desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society. E258.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3503CDB9C6639E85B7852CAB704AEA9976A9ABDFP.jpg"></icon>
+	</programme>
+	<programme start="20240927002000 +0000" stop="20240927010000 +0000" channel="ts15" catchup-id="69177248">
+		<title>Best Of Crime Patrol</title>
+		<desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society. E259.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3503CDB9C6639E85B7852CAB704AEA9976A9ABDFP.jpg"></icon>
+	</programme>
+	<programme start="20240927010000 +0000" stop="20240927020000 +0000" channel="ts15" catchup-id="69177257">
+		<title>Crime Patrol 2.0</title>
+		<desc>After celebrating a friend's birthday, two college friends set out late in the night to enjoy themselves. However, police retrieve their dead bodies the next day, which leads to a deeper secret. E209.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A0F79FEDC10C982D517558AE90CC74A7F6104DEB6.jpg"></icon>
+	</programme>
+	<programme start="20240927020000 +0000" stop="20240927033000 +0000" channel="ts15" catchup-id="69177249">
+		<title>Kaun Banega Crorepati</title>
+		<desc>The host asks a series of questions to several contestants to test their general knowledge and give them a chance to win a cash prize. S16 E34.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5E232609519D1CCD5B4D687FF3263A2A1B78220B7.jpg"></icon>
+	</programme>
+	<programme start="20240927033000 +0000" stop="20240927043000 +0000" channel="ts15" catchup-id="69177258">
+		<title>The Kapil Sharma Show - Masti Lagataar</title>
+		<desc>Host Kapil Sharma invites celebrity guests, who discuss their latest projects, while keeping the audience laughing with his humourous take on several topics. E35.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/18B1419869C507AEA434FEC38EF5998D4EAFFF9C4.jpg"></icon>
+	</programme>
+	<programme start="20240927043000 +0000" stop="20240927055000 +0000" channel="ts15" catchup-id="69177250">
+		<title>Best Of The Kapil Sharma Show</title>
+		<desc>The best moments from a show where ace stand-up comedian and host Kapil Sharma gets up close and personal with the invited celebrities. S02 E236.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4284AF0B1BDCA326DCF86824EABBF146D5243FAFT.jpg"></icon>
+	</programme>
+	<programme start="20240927055000 +0000" stop="20240927071000 +0000" channel="ts15" catchup-id="69177245">
+		<title>India's Best Dancer - Jab Dil Kare Dance Kar</title>
+		<desc>Talented dancers gather to showcase their abilities in order to impress a reputed panel of judges and emerge as the winners. S04 E22.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/210C6080D5D8C8F5E37781CDA4A713D1D3FB3DD0R.jpg"></icon>
+	</programme>
+	<programme start="20240927071000 +0000" stop="20240927085000 +0000" channel="ts15" catchup-id="69177263">
+		<title>Best Of Crime Patrol</title>
+		<desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society. E68.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3503CDB9C6639E85B7852CAB704AEA9976A9ABDFP.jpg"></icon>
+	</programme>
+	<programme start="20240927085000 +0000" stop="20240927103000 +0000" channel="ts15" catchup-id="69177247">
+		<title>Best Of Crime Patrol</title>
+		<desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3503CDB9C6639E85B7852CAB704AEA9976A9ABDFP.jpg"></icon>
+	</programme>
+	<programme start="20240927103000 +0000" stop="20240927112000 +0000" channel="ts15" catchup-id="69177255">
+		<title>Crime Patrol 2.0</title>
+		<desc>A serial killer is on the run after killing eleven innocent women. Meanwhile, the police officials race against time to nab the serial killer before he strikes again. E01.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A0F79FEDC10C982D517558AE90CC74A7F6104DEB6.jpg"></icon>
+	</programme>
+	<programme start="20240927112000 +0000" stop="20240927121000 +0000" channel="ts15" catchup-id="69177259">
+		<title>Crime Patrol 2.0</title>
+		<desc>After failing to catch the serial killer, the police officials find two more bodies. Later, Inspector Rajeev assigns his best staff to find the serial killer. E02.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A0F79FEDC10C982D517558AE90CC74A7F6104DEB6.jpg"></icon>
+	</programme>
+	<programme start="20240927121000 +0000" stop="20240927133000 +0000" channel="ts15" catchup-id="69177254">
+		<title>Best Of Crime Patrol</title>
+		<desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3503CDB9C6639E85B7852CAB704AEA9976A9ABDFP.jpg"></icon>
+	</programme>
+	<programme start="20240927133000 +0000" stop="20240927140000 +0000" channel="ts15" catchup-id="69177251">
+		<title>Mere Sai - Shraddha Aur Saburi</title>
+		<desc>Sai shows Damodar a vision of his parents searching for their son after which he promises Sai that he will go to his parents; Kulkarni's health condition gets worse and he starts coughing blood. E136.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/29ACC64E7B10228990FE6FEF1F6735749FCFBC75Y.jpg"></icon>
+	</programme>
+	<programme start="20240927140000 +0000" stop="20240927143000 +0000" channel="ts15" catchup-id="69177264">
+		<title>Mere Sai - Shraddha Aur Saburi</title>
+		<desc>Keshav gives Rukmini the holy ash he got from Sai; Kulkarni is healed after he unknowingly consumes the holy ash; the English tutor tells Kulkarni that Keshav should mingle with other children. E137.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/BB482875254746AF687074910FD2ACF0064047687.jpg"></icon>
+	</programme>
+	<programme start="20240927143000 +0000" stop="20240927150000 +0000" channel="ts15" catchup-id="69177260">
+		<title>Mere Sai - Shraddha Aur Saburi</title>
+		<desc>Sai tells Keshav that those who live by the principle of truth will never go astray. Keshav tells Kulkarni that he brought Sai's holy ash into the house, after which Kulkarni confronts Sai. E138.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9B3AE46B322A9A1387EBA85BE023A41365EEC981W.jpg"></icon>
+	</programme>
+	<programme start="20240927150000 +0000" stop="20240927153000 +0000" channel="ts15" catchup-id="69177252">
+		<title>Shrimad Ramayan</title>
+		<desc>All the suitors stare in disbelief after Ram manages to lift the bow and emerge victorious. Meanwhile, Sita is delighted to learn about Ram's victory. E15.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/998C8B39B68D479E02F6B6BD743E5CB919434407W.jpg"></icon>
+	</programme>
+	<programme start="20240927153000 +0000" stop="20240927170000 +0000" channel="ts15" catchup-id="69177253">
+		<title>Kaun Banega Crorepati</title>
+		<desc>The host asks a series of questions to several contestants to test their general knowledge and give them a chance to win a cash prize. S16 E35.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5E232609519D1CCD5B4D687FF3263A2A1B78220B7.jpg"></icon>
+	</programme>
+	<programme start="20240927170000 +0000" stop="20240927190000 +0000" channel="ts15" catchup-id="69177265">
+		<title>Best Of Crime Patrol</title>
+		<desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3503CDB9C6639E85B7852CAB704AEA9976A9ABDFP.jpg"></icon>
+	</programme>
+	<programme start="20240925190000 +0000" stop="20240925202000 +0000" channel="ts15" catchup-id="69144748">
+		<title>Best Of Crime Patrol</title>
+		<desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3503CDB9C6639E85B7852CAB704AEA9976A9ABDFP.jpg"></icon>
+	</programme>
+	<programme start="20240925202000 +0000" stop="20240925214000 +0000" channel="ts15" catchup-id="69144767">
+		<title>Best Of Crime Patrol</title>
+		<desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3503CDB9C6639E85B7852CAB704AEA9976A9ABDFP.jpg"></icon>
+	</programme>
+	<programme start="20240925214000 +0000" stop="20240925230000 +0000" channel="ts15" catchup-id="69144768">
+		<title>Best Of Crime Patrol</title>
+		<desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society. E63.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3503CDB9C6639E85B7852CAB704AEA9976A9ABDFP.jpg"></icon>
+	</programme>
+	<programme start="20240925230000 +0000" stop="20240925234000 +0000" channel="ts15" catchup-id="69144752">
+		<title>Best Of Crime Patrol</title>
+		<desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society. E224.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3503CDB9C6639E85B7852CAB704AEA9976A9ABDFP.jpg"></icon>
+	</programme>
+	<programme start="20240925234000 +0000" stop="20240926002000 +0000" channel="ts15" catchup-id="69144749">
+		<title>Best Of Crime Patrol</title>
+		<desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society. E229.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3503CDB9C6639E85B7852CAB704AEA9976A9ABDFP.jpg"></icon>
+	</programme>
+	<programme start="20240926002000 +0000" stop="20240926010000 +0000" channel="ts15" catchup-id="69144751">
+		<title>Best Of Crime Patrol</title>
+		<desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society. E254.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3503CDB9C6639E85B7852CAB704AEA9976A9ABDFP.jpg"></icon>
+	</programme>
+	<programme start="20240926010000 +0000" stop="20240926020000 +0000" channel="ts15" catchup-id="69144771">
+		<title>Crime Patrol 2.0</title>
+		<desc>A married couple is shattered to learn about the husband's inability to father a child. Meanwhile, the sudden disappearance of girls from a village raises fears of a human trafficking mafia at large. E208.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A0F79FEDC10C982D517558AE90CC74A7F6104DEB6.jpg"></icon>
+	</programme>
+	<programme start="20240926020000 +0000" stop="20240926033000 +0000" channel="ts15" catchup-id="69144762">
+		<title>Kaun Banega Crorepati</title>
+		<desc>The host asks a series of questions to several contestants to test their general knowledge and give them a chance to win a cash prize. S16 E33.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5E232609519D1CCD5B4D687FF3263A2A1B78220B7.jpg"></icon>
+	</programme>
+	<programme start="20240926033000 +0000" stop="20240926042000 +0000" channel="ts15" catchup-id="69144758">
+		<title>Best Of Crime Patrol</title>
+		<desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society. E53.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3503CDB9C6639E85B7852CAB704AEA9976A9ABDFP.jpg"></icon>
+	</programme>
+	<programme start="20240926042000 +0000" stop="20240926051000 +0000" channel="ts15" catchup-id="69268314">
+		<title>Crime Patrol - 48 Hours</title>
+		<desc>A young woman is found murdered in her house, while the body of her student's father is found in a storeroom. On the other hand, three convicts escape from a mental asylum in Mumbai. E14.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1E359C90F86B4A496286D723CF0ADF659379E801U.jpg"></icon>
+	</programme>
+	<programme start="20240926051000 +0000" stop="20240926065000 +0000" channel="ts15" catchup-id="69144756">
+		<title>India's Best Dancer - Jab Dil Kare Dance Kar</title>
+		<desc>Talented dancers gather to showcase their abilities in order to impress a reputed panel of judges and emerge as the winners. S04 E21.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/03446AE61A49216FD4722310D961ABB451B2FC38B.jpg"></icon>
+	</programme>
+	<programme start="20240926065000 +0000" stop="20240926074000 +0000" channel="ts15" catchup-id="69144750">
+		<title>Best Of Crime Patrol</title>
+		<desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society. E49.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3503CDB9C6639E85B7852CAB704AEA9976A9ABDFP.jpg"></icon>
+	</programme>
+	<programme start="20240926074000 +0000" stop="20240926083000 +0000" channel="ts15" catchup-id="69268315">
+		<title>Crime Patrol - 48 Hours</title>
+		<desc>A hostage crisis ensues at a daycare centre after a woman forces herself into the school and detains a group of young children. Later, the police race against time to neutralise the situation. E05.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1E359C90F86B4A496286D723CF0ADF659379E801U.jpg"></icon>
+	</programme>
+	<programme start="20240926083000 +0000" stop="20240926101000 +0000" channel="ts15" catchup-id="69144757">
+		<title>Best Of Crime Patrol</title>
+		<desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3503CDB9C6639E85B7852CAB704AEA9976A9ABDFP.jpg"></icon>
+	</programme>
+	<programme start="20240926101000 +0000" stop="20240926110000 +0000" channel="ts15" catchup-id="69144769">
+		<title>Crime Patrol - City Crimes</title>
+		<desc>An anthology of reenacted true crime stories occuring in different cities across India, which the police investigate and bring the perpetrators to justice. E110.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C3D933AA292FCC474DA14A9A025459C1212541FDT.jpg"></icon>
+	</programme>
+	<programme start="20240926110000 +0000" stop="20240926115000 +0000" channel="ts15" catchup-id="69144763">
+		<title>Crime Patrol - City Crimes</title>
+		<desc>An anthology of reenacted true crime stories occuring in different cities across India, which the police investigate and bring the perpetrators to justice. E111.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C3D933AA292FCC474DA14A9A025459C1212541FDT.jpg"></icon>
+	</programme>
+	<programme start="20240926115000 +0000" stop="20240926133000 +0000" channel="ts15" catchup-id="69144760">
+		<title>Best Of Crime Patrol</title>
+		<desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society. E67.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3503CDB9C6639E85B7852CAB704AEA9976A9ABDFP.jpg"></icon>
+	</programme>
+	<programme start="20240926133000 +0000" stop="20240926140000 +0000" channel="ts15" catchup-id="69144759">
+		<title>Mere Sai - Shraddha Aur Saburi</title>
+		<desc>Sai revives Madhav by smearing holy ash on his forehead; the villagers agree to pay a fee to Madhav for teaching their children. E132.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/F9822E06783CD14FD859C25665343C084E1E26DD4.jpg"></icon>
+	</programme>
+	<programme start="20240926140000 +0000" stop="20240926143000 +0000" channel="ts15" catchup-id="69144765">
+		<title>Mere Sai - Shraddha Aur Saburi</title>
+		<desc>Devidas decides to meet Sai in person. Sai's line of thought impresses Devidas's protege, Damodar, which enrages Devidas. E133.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4FB688FD597524F323B94C48EBB610B1D6DCFF28C.jpg"></icon>
+	</programme>
+	<programme start="20240926143000 +0000" stop="20240926153000 +0000" channel="ts15" catchup-id="69144761">
+		<title>Shrimad Ramayan</title>
+		<desc>Ram conveys his apprehensions about killing a woman after Vishwamitra informs him about Taadka's actions. Eventually, Ram reluctantly draws his bow at Taadka. E08.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/B222A32163A106633D7E98F13B593FC2A0716388D.jpg"></icon>
+	</programme>
+	<programme start="20240926153000 +0000" stop="20240926170000 +0000" channel="ts15" catchup-id="69144753">
+		<title>Kaun Banega Crorepati</title>
+		<desc>The host asks a series of questions to several contestants to test their general knowledge and give them a chance to win a cash prize. S16 E34.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5E232609519D1CCD5B4D687FF3263A2A1B78220B7.jpg"></icon>
+	</programme>
+	<programme start="20240926170000 +0000" stop="20240926180000 +0000" channel="ts15" catchup-id="69268316">
+		<title>Best Of Crime Patrol</title>
+		<desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society. E770.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3503CDB9C6639E85B7852CAB704AEA9976A9ABDFP.jpg"></icon>
+	</programme>
+	<programme start="20240926180000 +0000" stop="20240926190000 +0000" channel="ts15" catchup-id="69144770">
+		<title>Best Of Crime Patrol</title>
+		<desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society. E771.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3503CDB9C6639E85B7852CAB704AEA9976A9ABDFP.jpg"></icon>
+	</programme>
+	<programme start="20240925183000 +0000" stop="20240925233000 +0000" channel="ts405" catchup-id="69136681">
+		<title>Night Shift</title>
+		<desc>A refreshing compilation of melodious and catchy songs performed by several artists, musicians and songwriters played back to back.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1F856513803BC376B36B2605610B5F383DDD206B3.jpg"></icon>
+	</programme>
+	<programme start="20240925233000 +0000" stop="20240926003000 +0000" channel="ts405" catchup-id="69136684">
+		<title>Dama Dam Beats</title>
+		<desc>A comprehensive compilation of some of the hit songs composed by famous artists and musicians from all around the world are played back to back.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/779492DC3A6F8E827D7164735F235863AA4AACF5H.jpg"></icon>
+	</programme>
+	<programme start="20240926003000 +0000" stop="20240926013000 +0000" channel="ts405" catchup-id="69136682">
+		<title>Bhakti Beats</title>
+		<desc>A comprehensive compilation of devotional songs composed by well-known artists is played back to back to enthral the listeners.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/053F2CDA09CF7A628586D97783968A0E1FB811931.jpg"></icon>
+	</programme>
+	<programme start="20240926013000 +0000" stop="20240926023000 +0000" channel="ts405" catchup-id="69136676">
+		<title>Flash Back</title>
+		<desc>An eclectic compilation of melodious and entertaining songs from classic movies featuring popular artists, musicians and singers.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FA86828EB8BBE352BF1BEC0D149AC3CE93F4D5EB0.jpg"></icon>
+	</programme>
+	<programme start="20240926023000 +0000" stop="20240926053000 +0000" channel="ts405" catchup-id="69136687">
+		<title>Hit Mornings</title>
+		<desc>A comprehensive compilation of some of the most popular songs performed by various renowned artists and bands, played back to back.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E57B503F35690F1C95514E9A38C715F6AF3014EI.jpg"></icon>
+	</programme>
+	<programme start="20240926053000 +0000" stop="20240926063000 +0000" channel="ts405" catchup-id="69136685">
+		<title>Sadda Adda</title>
+		<desc>A comprehensive compilation of some of the hit songs composed by famous artists and musicians from all around the world are played back-to-back to enthral the listeners.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1D4B6E4D57F10097ED30346871441C68E4A3A8ECN.jpg"></icon>
+	</programme>
+	<programme start="20240926063000 +0000" stop="20240926070000 +0000" channel="ts405" catchup-id="69136679">
+		<title>Hit Machine</title>
+		<desc>Tune into the latest Indian and international hits.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5796ABA991AE0B591520E316AF78FB0956BF3AC8T.jpg"></icon>
+	</programme>
+	<programme start="20240926070000 +0000" stop="20240926073000 +0000" channel="ts405" catchup-id="69136680">
+		<title>Hit Machine</title>
+		<desc>Tune into the latest Indian and international hits.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5796ABA991AE0B591520E316AF78FB0956BF3AC8T.jpg"></icon>
+	</programme>
+	<programme start="20240926073000 +0000" stop="20240926083000 +0000" channel="ts405" catchup-id="69136683">
+		<title>What The Ishq</title>
+		<desc>The host answers various love and life-related questions from fans and offers advice to those problems, accompanied by special songs.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1DBD2958D00FC173327E6841F4C69031BC193E35F.jpg"></icon>
+	</programme>
+	<programme start="20240926083000 +0000" stop="20240926093000 +0000" channel="ts405" catchup-id="69136677">
+		<title>Flash Back</title>
+		<desc>An eclectic compilation of melodious and entertaining songs from classic movies featuring popular artists, musicians and singers.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FA86828EB8BBE352BF1BEC0D149AC3CE93F4D5EB0.jpg"></icon>
+	</programme>
+	<programme start="20240926093000 +0000" stop="20240926103000 +0000" channel="ts405" catchup-id="69136689">
+		<title>Sadda Adda</title>
+		<desc>A comprehensive compilation of some of the hit songs composed by famous artists and musicians from all around the world are played back-to-back to enthral the listeners.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1D4B6E4D57F10097ED30346871441C68E4A3A8ECN.jpg"></icon>
+	</programme>
+	<programme start="20240926103000 +0000" stop="20240926133000 +0000" channel="ts405" catchup-id="69136674">
+		<title>Selfie Le Le Re</title>
+		<desc>Individuals send in their photographs with interesting descriptions, requestions their favourite songs by popular music artists.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/67F82B1C67B68A6904E0FE992E30DFA3BCB14AF7T.jpg"></icon>
+	</programme>
+	<programme start="20240926133000 +0000" stop="20240926143000 +0000" channel="ts405" catchup-id="69136675">
+		<title>My Favelist</title>
+		<desc>A compilation of some of the best songs sung and recorded by various artists played back to back to enthral the audience.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/15E0294E26AE88E253E1CC2E2918DC3DC868665BO.jpg"></icon>
+	</programme>
+	<programme start="20240926143000 +0000" stop="20240926153000 +0000" channel="ts405" catchup-id="69136688">
+		<title>Disco Beats</title>
+		<desc>A comprehensive compilation of some of the grooviest disco and party tracks featuring renowned artists and musicians, played back to back.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A6953D523FA52BE8D43137D9B3099AD9EB8D4682R.jpg"></icon>
+	</programme>
+	<programme start="20240926153000 +0000" stop="20240926173000 +0000" channel="ts405" catchup-id="69136686">
+		<title>Flash Back</title>
+		<desc>An eclectic compilation of melodious and entertaining songs from classic movies featuring popular artists, musicians and singers.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FA86828EB8BBE352BF1BEC0D149AC3CE93F4D5EB0.jpg"></icon>
+	</programme>
+	<programme start="20240926173000 +0000" stop="20240926183000 +0000" channel="ts405" catchup-id="69136678">
+		<title>Dheeme Beats</title>
+		<desc>A compilation of some of the most soothing lo-fi hits composed by popular artists is played back to back to help viewers unwind.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6D3C2E24C8512CB3926C4E79BDC6FE4F23DD08EE2.jpg"></icon>
+	</programme>
+	<programme start="20240924190000 +0000" stop="20240924194000 +0000" channel="ts15" catchup-id="69108633">
+		<title>Best Of Crime Patrol</title>
+		<desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society. E63.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3503CDB9C6639E85B7852CAB704AEA9976A9ABDFP.jpg"></icon>
+	</programme>
+	<programme start="20240924194000 +0000" stop="20240924202000 +0000" channel="ts15" catchup-id="69108647">
+		<title>Best Of Crime Patrol</title>
+		<desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society. E64.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3503CDB9C6639E85B7852CAB704AEA9976A9ABDFP.jpg"></icon>
+	</programme>
+	<programme start="20240924202000 +0000" stop="20240924214000 +0000" channel="ts15" catchup-id="69108639">
+		<title>Best Of Crime Patrol</title>
+		<desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society. E62.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3503CDB9C6639E85B7852CAB704AEA9976A9ABDFP.jpg"></icon>
+	</programme>
+	<programme start="20240924214000 +0000" stop="20240924230000 +0000" channel="ts15" catchup-id="69108651">
+		<title>Best Of Crime Patrol</title>
+		<desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3503CDB9C6639E85B7852CAB704AEA9976A9ABDFP.jpg"></icon>
+	</programme>
+	<programme start="20240924230000 +0000" stop="20240924234000 +0000" channel="ts15" catchup-id="69108631">
+		<title>Best Of Crime Patrol</title>
+		<desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society. E206.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3503CDB9C6639E85B7852CAB704AEA9976A9ABDFP.jpg"></icon>
+	</programme>
+	<programme start="20240924234000 +0000" stop="20240925002000 +0000" channel="ts15" catchup-id="69108642">
+		<title>Best Of Crime Patrol</title>
+		<desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society. E214.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3503CDB9C6639E85B7852CAB704AEA9976A9ABDFP.jpg"></icon>
+	</programme>
+	<programme start="20240925002000 +0000" stop="20240925010000 +0000" channel="ts15" catchup-id="69108637">
+		<title>Best Of Crime Patrol</title>
+		<desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society. E218.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3503CDB9C6639E85B7852CAB704AEA9976A9ABDFP.jpg"></icon>
+	</programme>
+	<programme start="20240925010000 +0000" stop="20240925020000 +0000" channel="ts15" catchup-id="69187794">
+		<title>Crime Patrol 2.0</title>
+		<desc>Animosity erupts between three best friends after the arrival of a female friend at school. However, police enter the scene after one of the friends is found murdered under mysterious circumstances. E207.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A0F79FEDC10C982D517558AE90CC74A7F6104DEB6.jpg"></icon>
+	</programme>
+	<programme start="20240925020000 +0000" stop="20240925033000 +0000" channel="ts15" catchup-id="69108649">
+		<title>Kaun Banega Crorepati</title>
+		<desc>The host asks a series of questions to several contestants to test their general knowledge and give them a chance to win a cash prize. S16 E32.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5E232609519D1CCD5B4D687FF3263A2A1B78220B7.jpg"></icon>
+	</programme>
+	<programme start="20240925033000 +0000" stop="20240925040000 +0000" channel="ts15" catchup-id="69108635">
+		<title>The Kapil Sharma Show - Masti Lagataar</title>
+		<desc>Host Kapil Sharma invites celebrity guests, who discuss their latest projects, while keeping the audience laughing with his humourous take on several topics. E37.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4F27B1B94D32F1A9B02E04151E018811A9266AEEJ.jpg"></icon>
+	</programme>
+	<programme start="20240925040000 +0000" stop="20240925052000 +0000" channel="ts15" catchup-id="69108652">
+		<title>Best Of The Kapil Sharma Show</title>
+		<desc>The best moments from a show where ace stand-up comedian and host Kapil Sharma gets up close and personal with the invited celebrities. S02 E161.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/4284AF0B1BDCA326DCF86824EABBF146D5243FAFT.jpg"></icon>
+	</programme>
+	<programme start="20240925052000 +0000" stop="20240925071000 +0000" channel="ts15" catchup-id="69108646">
+		<title>India's Best Dancer - Jab Dil Kare Dance Kar</title>
+		<desc>Talented dancers gather to showcase their abilities in order to impress a reputed panel of judges and emerge as the winners. S04 E20.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E437BA1B762B9A3E50777DDDF13003F97427B263Q.jpg"></icon>
+	</programme>
+	<programme start="20240925071000 +0000" stop="20240925083000 +0000" channel="ts15" catchup-id="69108638">
+		<title>Best Of Crime Patrol</title>
+		<desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3503CDB9C6639E85B7852CAB704AEA9976A9ABDFP.jpg"></icon>
+	</programme>
+	<programme start="20240925083000 +0000" stop="20240925101000 +0000" channel="ts15" catchup-id="69108632">
+		<title>Best Of Crime Patrol</title>
+		<desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3503CDB9C6639E85B7852CAB704AEA9976A9ABDFP.jpg"></icon>
+	</programme>
+	<programme start="20240925101000 +0000" stop="20240925110000 +0000" channel="ts15" catchup-id="69108650">
+		<title>Best Of Crime Patrol</title>
+		<desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society. E98.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3503CDB9C6639E85B7852CAB704AEA9976A9ABDFP.jpg"></icon>
+	</programme>
+	<programme start="20240925110000 +0000" stop="20240925115000 +0000" channel="ts15" catchup-id="69108645">
+		<title>Best Of Crime Patrol</title>
+		<desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society. E99.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3503CDB9C6639E85B7852CAB704AEA9976A9ABDFP.jpg"></icon>
+	</programme>
+	<programme start="20240925115000 +0000" stop="20240925133000 +0000" channel="ts15" catchup-id="69187796">
+		<title>Best Of Crime Patrol</title>
+		<desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society. E64.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3503CDB9C6639E85B7852CAB704AEA9976A9ABDFP.jpg"></icon>
+	</programme>
+	<programme start="20240925133000 +0000" stop="20240925140000 +0000" channel="ts15" catchup-id="69108640">
+		<title>Mere Sai - Shraddha Aur Saburi</title>
+		<desc>Keshav takes permission from Rukmini to look at the Madhav's new school; Bhama receives a huge embroidery order from Rehana which has to be completed overnight. E130.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/C1B396639675D63D71925CFEE224C0C4C46484F28.jpg"></icon>
+	</programme>
+	<programme start="20240925140000 +0000" stop="20240925143000 +0000" channel="ts15" catchup-id="69187795">
+		<title>Mere Sai - Shraddha Aur Saburi</title>
+		<desc>On Tatya's birthday, Anta and Banta target him with their plan; Appa takes a couple fighting over the parenthood of their child to Sai, who dispenses justice in a unique manner. E131.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/E9F112C39004B4AEC978EDBD4F74987A3EE08ED9Q.jpg"></icon>
+	</programme>
+	<programme start="20240925143000 +0000" stop="20240925153000 +0000" channel="ts15" catchup-id="69108641">
+		<title>Shrimad Ramayan</title>
+		<desc>King Dasharath requests Rishi Vishwanath to reconsider his decision to take Ram under his tutelage. Meanwhile, Janak invites Sita's suitors to participate in the challenge. E07.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5A58A58F1D24B7D0D2CDA576FCAFACB8E8115F8EY.jpg"></icon>
+	</programme>
+	<programme start="20240925153000 +0000" stop="20240925170000 +0000" channel="ts15" catchup-id="69108636">
+		<title>Kaun Banega Crorepati</title>
+		<desc>The host asks a series of questions to several contestants to test their general knowledge and give them a chance to win a cash prize. S16 E33.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5E232609519D1CCD5B4D687FF3263A2A1B78220B7.jpg"></icon>
+	</programme>
+	<programme start="20240925170000 +0000" stop="20240925180000 +0000" channel="ts15" catchup-id="69187799">
+		<title>Best Of Crime Patrol</title>
+		<desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society. E83.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3503CDB9C6639E85B7852CAB704AEA9976A9ABDFP.jpg"></icon>
+	</programme>
+	<programme start="20240925180000 +0000" stop="20240925190000 +0000" channel="ts15" catchup-id="69187798">
+		<title>Best Of Crime Patrol</title>
+		<desc>Some of the best cases of 'Crime Patrol', which investigates how innocent people turn into criminals due to the influence of evil in society. E84.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/3503CDB9C6639E85B7852CAB704AEA9976A9ABDFP.jpg"></icon>
+	</programme>
+	<programme start="20240924183000 +0000" stop="20240924233000 +0000" channel="ts405" catchup-id="69098823">
+		<title>Night Shift</title>
+		<desc>A refreshing compilation of melodious and catchy songs performed by several artists, musicians and songwriters played back to back.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1F856513803BC376B36B2605610B5F383DDD206B3.jpg"></icon>
+	</programme>
+	<programme start="20240924233000 +0000" stop="20240925003000 +0000" channel="ts405" catchup-id="69098814">
+		<title>Dama Dam Beats</title>
+		<desc>A comprehensive compilation of some of the hit songs composed by famous artists and musicians from all around the world are played back to back.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/779492DC3A6F8E827D7164735F235863AA4AACF5H.jpg"></icon>
+	</programme>
+	<programme start="20240925003000 +0000" stop="20240925013000 +0000" channel="ts405" catchup-id="69098822">
+		<title>Bhakti Beats</title>
+		<desc>A comprehensive compilation of devotional songs composed by well-known artists is played back to back to enthral the listeners.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/053F2CDA09CF7A628586D97783968A0E1FB811931.jpg"></icon>
+	</programme>
+	<programme start="20240925013000 +0000" stop="20240925023000 +0000" channel="ts405" catchup-id="69098824">
+		<title>Flash Back</title>
+		<desc>An eclectic compilation of melodious and entertaining songs from classic movies featuring popular artists, musicians and singers.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FA86828EB8BBE352BF1BEC0D149AC3CE93F4D5EB0.jpg"></icon>
+	</programme>
+	<programme start="20240925023000 +0000" stop="20240925053000 +0000" channel="ts405" catchup-id="69098811">
+		<title>Hit Mornings</title>
+		<desc>A comprehensive compilation of some of the most popular songs performed by various renowned artists and bands, played back to back.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/9E57B503F35690F1C95514E9A38C715F6AF3014EI.jpg"></icon>
+	</programme>
+	<programme start="20240925053000 +0000" stop="20240925063000 +0000" channel="ts405" catchup-id="69098819">
+		<title>Sadda Adda</title>
+		<desc>A comprehensive compilation of some of the hit songs composed by famous artists and musicians from all around the world are played back-to-back to enthral the listeners.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1D4B6E4D57F10097ED30346871441C68E4A3A8ECN.jpg"></icon>
+	</programme>
+	<programme start="20240925063000 +0000" stop="20240925070000 +0000" channel="ts405" catchup-id="69098818">
+		<title>Komedy With Akki</title>
+		<desc>Komedy With Akki</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/054FE2501BCA2E9941C8BF03C3B0DA65407155A32.jpg"></icon>
+	</programme>
+	<programme start="20240925070000 +0000" stop="20240925073000 +0000" channel="ts405" catchup-id="69098825">
+		<title>Hit Machine</title>
+		<desc>Tune into the latest Indian and international hits.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/5796ABA991AE0B591520E316AF78FB0956BF3AC8T.jpg"></icon>
+	</programme>
+	<programme start="20240925073000 +0000" stop="20240925083000 +0000" channel="ts405" catchup-id="69098816">
+		<title>What The Ishq</title>
+		<desc>The host answers various love and life-related questions from fans and offers advice to those problems, accompanied by special songs.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1DBD2958D00FC173327E6841F4C69031BC193E35F.jpg"></icon>
+	</programme>
+	<programme start="20240925083000 +0000" stop="20240925093000 +0000" channel="ts405" catchup-id="69098815">
+		<title>Flash Back</title>
+		<desc>An eclectic compilation of melodious and entertaining songs from classic movies featuring popular artists, musicians and singers.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FA86828EB8BBE352BF1BEC0D149AC3CE93F4D5EB0.jpg"></icon>
+	</programme>
+	<programme start="20240925093000 +0000" stop="20240925103000 +0000" channel="ts405" catchup-id="69098820">
+		<title>Sadda Adda</title>
+		<desc>A comprehensive compilation of some of the hit songs composed by famous artists and musicians from all around the world are played back-to-back to enthral the listeners.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/1D4B6E4D57F10097ED30346871441C68E4A3A8ECN.jpg"></icon>
+	</programme>
+	<programme start="20240925103000 +0000" stop="20240925133000 +0000" channel="ts405" catchup-id="69098817">
+		<title>Selfie Le Le Re</title>
+		<desc>Individuals send in their photographs with interesting descriptions, requestions their favourite songs by popular music artists.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/67F82B1C67B68A6904E0FE992E30DFA3BCB14AF7T.jpg"></icon>
+	</programme>
+	<programme start="20240925133000 +0000" stop="20240925143000 +0000" channel="ts405" catchup-id="69098810">
+		<title>My Favelist</title>
+		<desc>A compilation of some of the best songs sung and recorded by various artists played back to back to enthral the audience.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/15E0294E26AE88E253E1CC2E2918DC3DC868665BO.jpg"></icon>
+	</programme>
+	<programme start="20240925143000 +0000" stop="20240925153000 +0000" channel="ts405" catchup-id="69098812">
+		<title>Disco Beats</title>
+		<desc>A comprehensive compilation of some of the grooviest disco and party tracks featuring renowned artists and musicians, played back to back.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/A6953D523FA52BE8D43137D9B3099AD9EB8D4682R.jpg"></icon>
+	</programme>
+	<programme start="20240925153000 +0000" stop="20240925173000 +0000" channel="ts405" catchup-id="69098821">
+		<title>Flash Back</title>
+		<desc>An eclectic compilation of melodious and entertaining songs from classic movies featuring popular artists, musicians and singers.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/FA86828EB8BBE352BF1BEC0D149AC3CE93F4D5EB0.jpg"></icon>
+	</programme>
+	<programme start="20240925173000 +0000" stop="20240925183000 +0000" channel="ts405" catchup-id="69098813">
+		<title>Dheeme Beats</title>
+		<desc>A compilation of some of the most soothing lo-fi hits composed by popular artists is played back to back to help viewers unwind.</desc>
+		<icon src="http://imagestataplay.whatsonindia.com/dasimages/landscape/1280x720/6D3C2E24C8512CB3926C4E79BDC6FE4F23DD08EE2.jpg"></icon>
+	</programme>
+</tv>
