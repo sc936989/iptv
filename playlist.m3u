@@ -137,6 +137,8 @@ http://fortv.cc:8080/n7NX45/216258/119432
 http://fortv.cc:8080/n7NX45/216258/119423
 #EXTINF:-1 tvg-id="" tvg-name="CINEBOX: FAMILY" tvg-logo="https://w7.pngwing.com/pngs/153/129/png-transparent-creative-family-logo-thumbnail.png" group-title="Movies",FAMILY
 http://fortv.cc:8080/n7NX45/216258/119425
+#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.at" tvg-logo="https://w7.pngwing.com/pngs/153/129/png-transparent-creative-family-logo-thumbnail.png" group-title="Movies",Family (Austria)
+https://9fa8baba055e4a52b0a8d1ae7d78bed8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenFamily-1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINEBOX: MUSICAL" tvg-logo="https://t4.ftcdn.net/jpg/05/78/50/75/360_F_578507584_y0BUZ9yYbIZy9lNVI4sH1AbuLJaBPJru.jpg" group-title="Movies",MUSICAL
 http://fortv.cc:8080/n7NX45/216258/119430
 #EXTINF:-1 tvg-id="" tvg-name="CINEBOX: MYSTERY" tvg-logo="https://c8.alamy.com/comp/2HBXYD8/skull-face-with-jacket-mystery-logo-design-vector-graphic-symbol-icon-sign-illustration-creative-idea-2HBXYD8.jpg" group-title="Movies",MYSTERY
@@ -168,6 +170,8 @@ http://tv.cloudcdn.me/live.ts?channelId=250&uid=13603&deviceMac=00:1A:79:64:B4:A
 https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
 #EXTINF:-1 tvg-id="disneyxd.ca" tvg-name="" tvg-logo="https://www.pngkey.com/png/detail/273-2734721_disney-xd-logo-black-disney-xd-logo-new.png" group-title="Kids",CA Disney XD (R)
 http://fortv.cc:8080/n7NX45/216258/57420
+#EXTINF:-1 tvg-id="AdultSwimPrimal.us" group-title="Kids" tvg-logo="https://media.cdn.adultswim.com/uploads/20220721/227211723353-primal_metaThumb_420x236.png",Primal
+https://adultswim-vodlive.cdn.turner.com/live/primal/stream_de.m3u8
 
 #EXTINF:-1 tvg-id="ts689" tvg-name="Aaj Tak HD" group-title="News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34650-jpmey8gw-v1/imageContent-34650-jpmey8gw-m1.jpg",Aaj Tak HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
