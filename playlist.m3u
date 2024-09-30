@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
+#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 
 #EXTINF:-1 tvg-id="1249"group-title="Music" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kadak_Hits.png",Hindi Hits
 http://146.59.253.52:8080/hindihitshd/index.m3u8
