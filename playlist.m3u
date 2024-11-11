@@ -30,6 +30,12 @@ https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlis
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZqAc9yJDWXzCUHW8Lu5AYuZ0ZhvebtIEtqA&s.png",Music Reload
 http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
+#EXTINF:-1 group-title="Music",Первый Музыкальный BY [FHD]
+http://rtmp.one.by:1300
+#EXTINF:-1 group-title="Music",Retro Music TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="Music",NEW KPOP (EU)
+https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ts15" tvg-name="SET HD" group-title="Entertainment" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43-j5fca4k0-v3/imageContent-43-j5fca4k0-m4.png",SET HD
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
@@ -66,7 +72,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Food_Food.png/revision/latest/scale-to-width-down/220?cb=20240319101022.png" group-title="Entertainment",Food Food (S)
 http://fortv.cc:8080/n7NX45/216258/125807
 #EXTINF:-1 tvg-id="ts135" tvg-name="TLC" group-title="Entertainment" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-453-j5jtup5s-v2/imageContent-453-j5jtup5s-m2.png,TLC
-https://yashrajmod1-github-io.vercel.app/TLC.m3u8
+https://denver1769.pages.dev/Discovery/tlc_hd_hindi.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/SMSHD.png/revision/latest/scale-to-width-down/300?cb=20240313194438.png",Star Movie Select HD
 http://119.156.26.155:8000/play/a06q/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Entertainment" tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/colors-infinity-hd.png:,colors INFINITY HD
@@ -178,6 +184,8 @@ https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg0
 https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
 #EXTINF:-1 tvg-id="disneyxd.ca" tvg-name="" tvg-logo="https://www.pngkey.com/png/detail/273-2734721_disney-xd-logo-black-disney-xd-logo-new.png" group-title="Kids",CA Disney XD (R)
 http://fortv.cc:8080/n7NX45/216258/57420
+#EXTINF:-1 tvg-id="BabySharkTV.us" tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="Kids",Baby Shark TV (1080p)
+https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ts689" tvg-name="Aaj Tak HD" group-title="News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34650-jpmey8gw-v1/imageContent-34650-jpmey8gw-m1.jpg",Aaj Tak HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
@@ -220,7 +228,7 @@ http://tv.cloudcdn.me/live.ts?channelId=177&uid=5568&deviceMac=00:1A:79:0E:F7:BA
 #EXTINF:-1 tvg-id="ts605" tvg-name="National Geographic HD" group-title="Discovery" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12232-j9qoqbdc-v1/imageContent-12232-j9qoqbdc-m1.jpg",National Geographic HD
 http://119.156.26.155:8000/play/a06r/index.m3u8
 #EXTINF:-1 tvg-id="ts130" tvg-name="Animal Planet" group-title="Discovery" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-432-j5jsx754-v4/imageContent-432-j5jsx754-m4.png",Animal Planet
-https://yashrajmod1-github-io.vercel.app/Animal_Plannet.m3u8
+https://denver1769.pages.dev/Discovery/animal_planet_hd_hindi.m3u8
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://i.postimg.cc/sfZsrWst/20240823_023726.png",𝙒𝙞𝙡𝙙 𝙀𝙖𝙧𝙩𝙝(𝘽𝘿)
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://i.postimg.cc/MZR248Yw/20240823_024104.png",𝙇𝙤𝙫𝙚 𝙉𝙖𝙩𝙪𝙧𝙚 4𝙆
