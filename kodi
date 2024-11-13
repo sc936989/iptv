@@ -83,3 +83,74 @@ http://fortv.cc:8080/n7NX45/216258/119436
 http://fortv.cc:8080/n7NX45/216258/119432
 #EXTINF:-1 tvg-id="" tvg-name="CINEBOX: THRILLER" tvg-logo="https://pbs.twimg.com/media/DFbhICfXYAAnrZz.jpg" group-title="Shivam",THRILLER
 http://fortv.cc:8080/n7NX45/216258/119437
+#EXTINF:-1 tvg-id="ts45" tvg-name="SONY YAY!" group-title="Shivam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-132-j5fpedbs-v4/imageContent-132-j5fpedbs-m6.png",SONY YAY!
+https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
+#EXTINF:-1 group-title="Shivam" tvg-logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2019/05/disney-channel-logo.jpg",Disney Channel
+http://119.156.26.155:8000/play/a05u/index.m3u8
+#EXTINF:-1 group-title="Shivam" tvg-logo="https://i.imgur.com/oyIMxzM.png",TOON GOOGLE
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36
+#EXTINF:-1 group-title="Shivam" tvg-logo="https://www.kidsflix.com/themes/custom/viva/kidsflix/logo.png",KIDS FLIX
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+#EXTINF:-1 group-title="Shivam" tvg-logo="https://i.ibb.co/0D563M3/IMG-20240129-070827.png",𝙋𝘽𝙎 𝙆𝙄𝘿𝙎
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
+#EXTINF:-1 group-title="Shivam" tvg-logo="https://i.ibb.co/G0y20Vk/IMG-20240129-070853.png",𝙕𝙤𝙤 𝙈𝙤𝙤
+https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Shivam" tvg-logo="https://e7.pngegg.com/pngimages/493/479/png-clipart-mr-bean-illustration-youtube-coloring-book-character-cartoon-mr-bean-television-child-thumbnail.png",Mr Bean
+https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
+#EXTINF:-1 tvg-id="BabySharkTV.us" tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="Shivam",Baby Shark TV (1080p)
+https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ts689" tvg-name="Aaj Tak HD" group-title="Shivam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34650-jpmey8gw-v1/imageContent-34650-jpmey8gw-m1.jpg",Aaj Tak HD
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1 tvg-id="ts177" tvg-name="ABP News" group-title="Shivam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-759-j5m13014-v2/imageContent-759-j5m13014-m3.png",ABP News
+https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
+#EXTINF:-1 tvg-id="ts179" tvg-name="NDTV India" group-title="Shivam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-483-j5jx9x48-v1/imageContent-483-j5jx9x48-m1.png",NDTV India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+#EXTINF:-1 group-title="ZEE News" group-title="Shivam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuqgsvfVCC5WZxPxIp7vXTQ11WpCqTd8BZeg&s.png",ZEE News
+https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
+#EXTINF:-1 group-title="Shivam" tvg-logo="https://m.media-amazon.com/images/I/51VQsRfgzoL.png",India TV
+https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
+#EXTINF:-1 group-title="ZEE BUSINESS" group-title="Shivam" tvg-logo="https://www.dhirassociates.com/wp-content/uploads/2020/10/Zee-Business.png",ZEE BUSINESS
+https://dwby15d04agvq.cloudfront.net/index_5.m3u8
+#EXTINF:-1 group-title="Shivam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPRmYH8UfW2w3yEDViiX3zubD0C3P1DY_d-g&s.png",News Nation-Hindi
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Newsnation/default/index.m3u8
+#EXTINF:-1 group-title="Shivam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROn0HER1hzw_hfwi1JjXTOSK1xkXKc-kSbGw&s.png",NDTV khabar
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
+#EXTINF:-1 group-title="Shivam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFMaqjCRq9SH8CJQjhBXSptmwPI8pVVjtObA&s.png",Aaj ki Khabar
+https://server.livelegitpro.in/aajkikhabar/aajkikhabar/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Shivam" tvg-logo="https://w7.pngwing.com/pngs/672/933/png-transparent-india-today-television-channel-living-media-india-television-text-rectangle.png",INDIA TODAY
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+#EXTINF:-1 group-title="Shivam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/NDTV_247.svg",NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTINF:-1 tvg-id="SudarshanNews.in" group-title="Shivam" tvg-logo="https://play-lh.googleusercontent.com/MCAS_74xm6-MdUfE1FBFbnfbzSrLa_7FyFKoxQtrvg52mlIL-aHp6Kp6I_6eyJPxneI.png",Sudarshan News (720p)
+https://ott.livelegitpro.in/pusa/sudarshantv/index.m3u8
+#EXTINF:-1 tvg-id="ts188" tvg-name="BBC News" group-title="Shivam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/BBCWNW_BoxCover-v3/BBCWNW_BoxCover.png",BBC News
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNNews18.in" group-title="Shivam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFhBGPz8m_4SJIFb7PmWMH2irBteInNyddKw&s.png",CNN News 18
+https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-id="LokSabhaTV.in" group-title="Shivam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCLpAshhNr5sjGPqWyxI5Qp61pqrpB1dHmRg&s.png",Lok Sabha TV (1080p)
+#EXTVLCOPT:http-referrer=https://webcast.gov.in/
+https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Shivam" tvg-language="" tvg-logo="https://i.postimg.cc/c44xwF0y/image.jpg",ID Hindi HD
+https://denver1769.pages.dev/Discovery/id_hd_hindi.m3u8
+#EXTINF:-1 tvg-id="ts219" tvg-name="Discovery Channel" group-title="Shivam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-876-j5mcolzc-v2/imageContent-876-j5mcolzc-m2.png",Discovery Channel
+https://denver1769.pages.dev/Discovery/discovery_hd_hindi.m3u8
+#EXTINF:-1 tvg-id="ts605" tvg-name="National Geographic HD" group-title="Shivam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12232-j9qoqbdc-v1/imageContent-12232-j9qoqbdc-m1.jpg",National Geographic HD
+http://tv.cloudcdn.me/live.ts?channelId=177&uid=5568&deviceMac=00:1A:79:0E:F7:BA
+#EXTINF:-1 tvg-id="ts605" tvg-name="National Geographic HD" group-title="Shivam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12232-j9qoqbdc-v1/imageContent-12232-j9qoqbdc-m1.jpg",National Geographic HD
+http://119.156.26.155:8000/play/a06r/index.m3u8
+#EXTINF:-1 tvg-id="ts130" tvg-name="Animal Planet" group-title="Shivam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-432-j5jsx754-v4/imageContent-432-j5jsx754-m4.png",Animal Planet
+https://denver1769.pages.dev/Discovery/animal_planet_hd_hindi.m3u8
+#EXTINF:-1 group-title="Shivam" tvg-logo="https://i.postimg.cc/sfZsrWst/20240823_023726.png",𝙒𝙞𝙡𝙙 𝙀𝙖𝙧𝙩𝙝(𝘽𝘿)
+https://wildearth-roku.amagi.tv/masterR720P.m3u8
+#EXTINF:-1 group-title="Shivam" tvg-logo="https://i.postimg.cc/MZR248Yw/20240823_024104.png",𝙇𝙤𝙫𝙚 𝙉𝙖𝙩𝙪𝙧𝙚 4𝙆
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="Shivam" tvg-logo="https://pbs.twimg.com/profile_images/957202265827311616/90zdVO3Y_400x400.jpg",Travel 4K
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
+#EXTINF:-1 tvg-id="ts113" tvg-name="Discovery Science" group-title="Shivam" tvg-language="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-367-j5jo9i3s-v1/imageContent-367-j5jo9i3s-m1.jpg",Discovery Science
+https://denver1769.pages.dev/Discovery/discovery_science_hindi.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Shivam" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Discovery_HD.svg",Discovery HD
+http://119.156.26.155:8000/play/a06s/index.m3u8
+#EXTINF:-1 tvg-id="ts81" tvg-name="SONY SPORTS TEN 1 HD" group-title="Shivam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-259-j5fz9bvk-v4/imageContent-259-j5fz9bvk-m4.jpg",SONY SPORTS TEN 1 HD
+https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+#EXTINF:-1 tvg-id="ts464" tvg-name="SONY SPORTS TEN 3 HD" group-title="Shivam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11785-j9kynnm0-v3/imageContent-11785-j9kynnm0-m3.jpg",SONY SPORTS TEN 3 HD
+https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
