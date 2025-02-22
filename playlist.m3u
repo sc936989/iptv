@@ -112,6 +112,8 @@ https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m
 #EXTVLCOPT:http-referrer=https://webcast.gov.in/
 https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8
 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://sunplex.net/iptv/logo/sony-pix-hd.jpg",SONY PIX HD
+http://212.102.34.8:9080/SonyPixHD/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINEBOX: ANIMATION" tvg-logo="https://w0.peakpx.com/wallpaper/663/167/HD-wallpaper-the-boss-baby-cute-thumbnail.jpg" group-title="Movies",ANIMATION
 http://fortv.cc:8080/n7NX45/216258/119420
 #EXTINF:-1 tvg-id="" tvg-name="CINEBOX: SCI-FI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCiUWQk0qxJAjKtmnQ2SGze6-XuPGkxigK1Q&s.png" group-title="Movies",SCI-FI
