@@ -27,6 +27,12 @@ https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ts15" tvg-name="SET HD" group-title="Entertainment" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43-j5fca4k0-v3/imageContent-43-j5fca4k0-m4.png",SET HD
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.postimg.cc/g0qJLPj6/TV.jpg",&TV
+https://www.tbn24.com/api/video/4051_0.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.postimg.cc/43WkCMMz/Star-Plus.jpg",Star Plus HD
+http://103.122.74.6:8888/hls/STAR.PLUS.HD.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.postimg.cc/43WkCMMz/Star-Plus.jpg",Star Plus HD
+https://www.tbn24.com/api/video/4039_0.m3u8
 #EXTINF:-1 tvg-id="ts56" tvg-name="Sony Wah" group-title="Entertainment" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-198-j5fsr7mw-v2/imageContent-198-j5fsr7mw-m3.png",Sony Wah
 https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 #EXTINF:-1 tvg-id="ts554" tvg-name="Sony Pal" group-title="Entertainment" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12071-j9oa4gbc-v5/imageContent-12071-j9oa4gbc-m4.png",Sony Pal
@@ -35,6 +41,12 @@ https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyKALHindi.us" tvg-logo="https://i.imgur.com/9Qq8DKh.png" group-title="Entertainment",Sony KAL Hindi
 https://spt-sonykal-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.postimg.cc/J4n7YN2D/Colors.jpg",Dangal
+https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.postimg.cc/J4n7YN2D/Colors.jpg",Dangal 2
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.postimg.cc/QCGRcWyM/Star-Bharat-HD.jpg",Star Bharat HD
+http://103.122.74.6:8888/hls/STAR.BARAT.HD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Food_Food.png/revision/latest/scale-to-width-down/220?cb=20240319101022.png" group-title="Entertainment",Food Food (S)
 http://fortv.cc:8080/n7NX45/216258/125807
 #EXTINF:-1 tvg-id="foodnetwork.ca" tvg-name="CA Food Network" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0002/2980/brand.gif?itok=wUixcD2L.png" group-title="Entertainment",CA Food Network
@@ -48,6 +60,22 @@ http://fortv.cc:8080/n7NX45/216258/66269
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png" group-title="Movie",SET Max
 http://fortv.cc:8080/n7NX45/216258/125814
+#EXTINF:-1 group-title="Movie" tvg-logo="https://i.postimg.cc/T3yTcTHZ/Sony-Max-HD.jpg",Sony Max HD
+http://103.122.74.6:8888/hls/SONY.MAX.HD.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://i.postimg.cc/T3yTcTHZ/Sony-Max-HD.jpg",Sony Max HD
+http://kst.moonplex.net:8080/CH1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://i.postimg.cc/RhgbbqFx/Star-Gold.jpg",Star Gold HD
+http://103.122.74.6:8888/hls/STAR.GOLD.HD.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://i.postimg.cc/RhgbbqFx/Star-Gold.jpg",Star Gold HD
+https://www.tbn24.com/api/video/4029_0.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://i.postimg.cc/1R0kx5TF/Pictures-HD.jpg",&Pictures HD
+http://103.122.74.6:8888/hls/ANT.PICTURS.HD.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://i.postimg.cc/J4n7YN2D/Colors.jpg",Colors Rishtey HD
+http://103.122.74.6:8888/hls/COLORS.HD.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://i.postimg.cc/J4n7YN2D/Colors.jpg",Colors Cineplex HD
+http://103.122.74.6:8888/hls/COLORS.CINEPLEX.HD.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://i.postimg.cc/43WkCMMz/Star-Plus.jpg",Utsav Gold
+http://103.122.74.6:8888/hls/UTSHOV.GOLD.m3u8
 #EXTINF:-1 tvg-id="MBCBollywood.ae" tvg-logo="https://i.imgur.com/TTAGFHG.png" group-title="Movie",MBC Bollywood (1080p) [Geo-blocked]
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Movie" tvg-logo="https://i.ibb.co/YNGyQJR/Picsart-23-06-25-22-19-02-657.png",BOLLYWOOD HD
@@ -67,14 +95,32 @@ https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in" tvg-logo="https://i.imgur.com/pH6ao2T.png" group-title="Kids",Cartoon Network HD+ (1080p)
 http://103.68.28.58:5001/live/1079.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",Cartoon Network
+http://103.122.74.6:8888/hls/CARTON.NETWORK.HD.m3u8
 #EXTINF:-1 tvg-id="ts45" tvg-name="SONY YAY!" group-title="Kids" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-132-j5fpedbs-v4/imageContent-132-j5fpedbs-m6.png",SONY YAY!
 https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Hungama
+http://103.122.74.6:8888/hls/HUNGAMA.m3u8
 #EXTINF:-1 tvg-id="ts239" tvg-name="Pogo" group-title="Kids" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-2694-j638bugw-v1/imageContent-2694-j638bugw-m1.png",Pogo
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/gjZzG3WD/Fight-Network.jpg",Discovery Kids
+http://103.122.74.6:8888/hls/DISCOVERY.KIDS.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Disney Junior
+http://103.122.74.6:8888/hls/DISNEY.JUNIAR.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg",Nick
+http://103.122.74.6:8888/hls/NICK.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg",Nick Junior
+http://103.122.74.6:8888/hls/NICK.JR.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg",Sonic
+http://103.122.74.6:8888/hls/SONIC.m3u8
 #EXTINF:-1 tvg-id="NickHDPlus.in" tvg-logo="https://i.imgur.com/nJPbTet.png" group-title="Kids",Nick HD+
 http://103.68.28.58:5001/live/1226.m3u8
 #EXTINF:-1 tvg-id="disneyxd.ca" tvg-name="" tvg-logo="https://www.pngkey.com/png/detail/273-2734721_disney-xd-logo-black-disney-xd-logo-new.png" group-title="Kids",CA Disney XD (R)
 http://fortv.cc:8080/n7NX45/216258/57420
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",BBC Cbeebies 
+http://103.122.74.6:8888/hls/BBC.CBABES.HD.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/FFwSjdzS/Pogo.jpg",Zoo Moo
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/oyIMxzM.png",TOON GOOGLE
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.kidsflix.com/themes/custom/viva/kidsflix/logo.png",KIDS FLIX
@@ -130,6 +176,26 @@ https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8
 
 #EXTINF:-1 group-title="Hollywood" tvg-logo="https://sunplex.net/iptv/logo/sony-pix-hd.jpg",SONY PIX HD
 http://212.102.34.8:9080/SonyPixHD/video.m3u8
+#EXTINF:-1 group-title="Hollywood" tvg-logo="https://i.postimg.cc/02CNFVwv/Star-Movies-HD.jpg",&Flix HD
+http://103.122.74.6:8888/hls/AND.FLIX.HD.m3u8
+#EXTINF:-1 group-title="Hollywood" tvg-logo="https://i.imgur.com/aju4mRV.jpg",HBO
+http://103.122.74.6:8888/hls/HBO.HD.m3u8
+#EXTINF:-1 group-title="Hollywood" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/SMSHD.png/revision/latest/scale-to-width-down/300?cb=20240313194438.jpg",Star Movie Selct HD
+http://103.122.74.6:8888/hls/STAR.MOVIES.SEL.HD.m3u8
+#EXTINF:-1 group-title="Hollywood" tvg-logo="https://i.imgur.com/aju4mRV.jpg",HBO Hits
+http://103.122.74.6:8888/hls/HBO.HITS.m3u8
+#EXTINF:-1 group-title="Hollywood" tvg-logo="https://i.imgur.com/aju4mRV.jpg",MNX
+http://103.122.74.6:8888/hls/MNX.HD.m3u8
+#EXTINF:-1 group-title="Hollywood" tvg-logo="https://i.imgur.com/aju4mRV.jpg",MN+
+http://103.122.74.6:8888/hls/MN.PLUS.HD.m3u8
+#EXTINF:-1 group-title="Hollywood" tvg-logo="https://i.imgur.com/aju4mRV.jpg",Movies Now HD
+http://103.122.74.6:8888/hls/MOVIES.NOW.HD.m3u8
+#EXTINF:-1 group-title="Hollywood" tvg-logo="https://i.postimg.cc/02CNFVwv/Star-Movies-HD.jpg",Star Movies HD
+http://103.122.74.6:8888/hls/STAR.MOVIES.HD.m3u8
+#EXTINF:-1 group-title="Hollywood" tvg-logo="https://i.postimg.cc/02CNFVwv/Star-Movies-HD.jpg",Star Movies Select HD
+http://103.122.74.6:8888/hls/COLOR.INFINITY.HD.m3u8
+#EXTINF:-1 group-title="Hollywood" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg",TLC
+http://103.122.74.6:8888/hls/TLC.HD.m3u8
 #EXTINF:-1 tvg-id="crave3.ca" tvg-name="CA: CRAVE 3" tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_Crave3.png" group-title="Hollywood",CA: CRAVE 3
 http://fortv.cc:8080/n7NX45/216258/57322
 #EXTINF:-1 tvg-id="crave4.ca" tvg-name="CA: CRAVE 4 HD" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2022/01/Crave4.png" group-title="Hollywood",CA: CRAVE 4 HD
@@ -159,6 +225,10 @@ http://fortv.cc:8080/n7NX45/216258/119435
 
 #EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="Discovery",National Geographic Wild
 http://stream02.vnet.am/NatGeoWild/mono.m3u8
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://i.postimg.cc/SKhYrRFf/National-Geographic.jpg",Nat Geo Wild
+http://103.122.74.6:8888/hls/NATGEO.WILD.HD.m3u8
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://i.postimg.cc/fTyctVD3/Discovery-HD.jpg",History TV
+http://103.122.74.6:8888/hls/HISTORY.TV.18.HD.m3u8
 #EXTINF:-1 tvg-id="NatureTime.es" tvg-logo="https://i.imgur.com/72JmyjM.png" group-title="Discovery",NatureTime
 https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://i.postimg.cc/sfZsrWst/20240823_023726.png",𝙒𝙞𝙡𝙙 𝙀𝙖𝙧𝙩𝙝(𝘽𝘿)
