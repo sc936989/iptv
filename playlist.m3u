@@ -144,33 +144,33 @@ https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b
 #EXTVLCOPT:http-referrer=https://webcast.gov.in/
 https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8
 
-#EXTINF:-1 group-title="Hollywood" tvg-logo="https://i.imgur.com/aju4mRV.jpg",My Time
+#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/aju4mRV.jpg",My Time
 https://mytime-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Hollywood" tvg-logo="https://i.postimg.cc/02CNFVwv/Star-Movies-HD.jpg",Sony Pix HD
+#EXTINF:-1 group-title="English" tvg-logo="https://i.postimg.cc/02CNFVwv/Star-Movies-HD.jpg",Sony Pix HD
 http://kst.moonplex.net:8080/CH8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Hollywood" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg",TBS
+#EXTINF:-1 group-title="English" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg",TBS
 http://kodistreamstv.com:8000/live/foxteamhd/VVPYpGd9wE/19.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: ANIMATION" tvg-logo="https://w0.peakpx.com/wallpaper/663/167/HD-wallpaper-the-boss-baby-cute-thumbnail.jpg" group-title="Hollywood",ANIMATION
+#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: ANIMATION" tvg-logo="https://w0.peakpx.com/wallpaper/663/167/HD-wallpaper-the-boss-baby-cute-thumbnail.jpg" group-title="English",ANIMATION
 http://fortv.cc:8080/n7NX45/216258/119420
-#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: SCI-FI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCiUWQk0qxJAjKtmnQ2SGze6-XuPGkxigK1Q&s.png" group-title="Hollywood",SCI-FI
+#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: SCI-FI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCiUWQk0qxJAjKtmnQ2SGze6-XuPGkxigK1Q&s.png" group-title="English",SCI-FI
 http://fortv.cc:8080/n7NX45/216258/119434
-#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: BLOCKBUSTERS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAq-tCMTPi1x59DmwTT4TQW5RXZBu4fXN08Q&s.png" group-title="Hollywood",BLOCKBUSTERS
+#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: BLOCKBUSTERS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAq-tCMTPi1x59DmwTT4TQW5RXZBu4fXN08Q&s.png" group-title="English",BLOCKBUSTERS
 http://fortv.cc:8080/n7NX45/216258/119421
-#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: HITS" tvg-logo="https://www.shutterstock.com/image-illustration/left-side-high-angle-view-260nw-708314386.jpg" group-title="Hollywood",HITS
+#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: HITS" tvg-logo="https://www.shutterstock.com/image-illustration/left-side-high-angle-view-260nw-708314386.jpg" group-title="English",HITS
 http://fortv.cc:8080/n7NX45/216258/119436
-#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: PREMIERE" tvg-logo="https://e7.pngegg.com/pngimages/377/247/png-clipart-adobe-premiere-pro-computer-software-adobe-creative-cloud-computer-icons-others-miscellaneous-purple-thumbnail.png" group-title="Hollywood",PREMIERE
+#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: PREMIERE" tvg-logo="https://e7.pngegg.com/pngimages/377/247/png-clipart-adobe-premiere-pro-computer-software-adobe-creative-cloud-computer-icons-others-miscellaneous-purple-thumbnail.png" group-title="English",PREMIERE
 http://fortv.cc:8080/n7NX45/216258/119432
-#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: THRILLER" tvg-logo="https://pbs.twimg.com/media/DFbhICfXYAAnrZz.jpg" group-title="Hollywood",THRILLER
+#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: THRILLER" tvg-logo="https://pbs.twimg.com/media/DFbhICfXYAAnrZz.jpg" group-title="English",THRILLER
 http://fortv.cc:8080/n7NX45/216258/119437
-#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: COMEDY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIeUOQOnuZm3hiNDZl7qD7vxCXCldqL6GyLg&s.png" group-title="Hollywood",COMEDY
+#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: COMEDY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIeUOQOnuZm3hiNDZl7qD7vxCXCldqL6GyLg&s.png" group-title="English",COMEDY
 http://fortv.cc:8080/n7NX45/216258/119423
-#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: FAMILY" tvg-logo="https://w7.pngwing.com/pngs/153/129/png-transparent-creative-family-logo-thumbnail.png" group-title="Hollywood",FAMILY
+#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: FAMILY" tvg-logo="https://w7.pngwing.com/pngs/153/129/png-transparent-creative-family-logo-thumbnail.png" group-title="English",FAMILY
 http://fortv.cc:8080/n7NX45/216258/119425
-#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: MYSTERY" tvg-logo="https://c8.alamy.com/comp/2HBXYD8/skull-face-with-jacket-mystery-logo-design-vector-graphic-symbol-icon-sign-illustration-creative-idea-2HBXYD8.jpg" group-title="Hollywood",MYSTERY
+#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: MYSTERY" tvg-logo="https://c8.alamy.com/comp/2HBXYD8/skull-face-with-jacket-mystery-logo-design-vector-graphic-symbol-icon-sign-illustration-creative-idea-2HBXYD8.jpg" group-title="English",MYSTERY
 http://fortv.cc:8080/n7NX45/216258/119431
-#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: ROMANCE" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Romance-designstyle-romance-m.png" group-title="Hollywood",ROMANCE
+#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: ROMANCE" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Romance-designstyle-romance-m.png" group-title="English",ROMANCE
 http://fortv.cc:8080/n7NX45/216258/119433
-#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: WESTERN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbdUf3X2x0N6B0KdkRg_gCkoW3BLAAfryhtw&s.png" group-title="Hollywood",WESTERN
+#EXTINF:-1 tvg-id="" tvg-name="CINEBOX: WESTERN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbdUf3X2x0N6B0KdkRg_gCkoW3BLAAfryhtw&s.png" group-title="English",WESTERN
 http://fortv.cc:8080/n7NX45/216258/119435
 
 #EXTINF:-1 tvg-id="NatureTime.es" tvg-logo="https://i.imgur.com/72JmyjM.png" group-title="Discovery",NatureTime
@@ -203,5 +203,9 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-w
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/CLc9yjH1/512px-Tennis-Channel-logo-svg.png",𝙏𝙚𝙣𝙣𝙞𝙨 𝘾𝙝𝙖𝙣𝙣𝙚𝙡 [𝙐𝙆]
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="60FPS" tvg-logo="https://m.media-amazon.com/images/I/81dl0SGHYtL._AC_UF1000,1000_QL80_.jpg",Van Helsing (2004)
+#EXTINF:-1 tvg-id="" tvg-name="Van Helsing (2004)" tvg-logo="https://m.media-amazon.com/images/I/81dl0SGHYtL._AC_UF1000,1000_QL80_.jpg" group-title="Holly Movies",Van Helsing (2004)
 https://upnow-prod.ff45e40d1a1c8f7e7de4e976d0c9e555.r2.cloudflarestorage.com/vKghGvweVRMMyxR0qKYCpyU7ykH3/5c058a3e-266d-4567-907d-f1bda77409ac?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=cdd12e35bbd220303957dc5603a4cc8e%2F20250421%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250421T164550Z&X-Amz-Expires=43200&X-Amz-Signature=37c7554fdbd63ffffdfa3bcf92c0037bb935b25468880b823d43f93b4d8209d0&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22Van%20Helsing%20%282004%29%201080p%2010bit%20BluRay%20UHD%20HDR%20120FPS%20x265%20HEVC%20%5BHindi%20%2B%20English%5D%20-%20Vegamovies.NL.mkv%22
+#EXTINF:-1 tvg-id="" tvg-name="Hi Papa (2023)" tvg-logo="https://media5.bollywoodhungama.in/wp-content/uploads/2023/12/Hi-Papa.jpg" group-title="Bolly Movies",Hi Papa (2023)
+https://ia601509.us.archive.org/19/items/hi-papa-2023-hindi-dubbed-org-720p/Hi_Papa_%282023%29_Hindi_Dubbed_ORG_720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Dictator (2012)" tvg-logo="https://m.media-amazon.com/images/I/91fz0MzTWTL._AC_UF1000,1000_QL80_.jpg" group-title="Holly Movies",The Dictator (2012)
+https://dn721805.ca.archive.org/0/items/the.-dictator.-2012.720p.-hindi-english.-vegamovies.-nl/The.Dictator.2012.720p.Hindi-English.%5BVegamovies.NL%5D.mp4
