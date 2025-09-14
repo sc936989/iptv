@@ -205,15 +205,311 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-w
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/CLc9yjH1/512px-Tennis-Channel-logo-svg.png",𝙏𝙚𝙣𝙣𝙞𝙨 𝘾𝙝𝙖𝙣𝙣𝙚𝙡 [𝙐𝙆]
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Hi Papa (2023)" tvg-logo="https://media5.bollywoodhungama.in/wp-content/uploads/2023/12/Hi-Papa.jpg" group-title="Bolly Movies",Hi Papa (2023)
-https://ia601509.us.archive.org/19/items/hi-papa-2023-hindi-dubbed-org-720p/Hi_Papa_%282023%29_Hindi_Dubbed_ORG_720p.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Van Helsing (2004)" tvg-logo="https://m.media-amazon.com/images/I/81dl0SGHYtL._AC_UF1000,1000_QL80_.jpg" group-title="Holly Movies",Van Helsing (2004)
 https://upnow-prod.ff45e40d1a1c8f7e7de4e976d0c9e555.r2.cloudflarestorage.com/vKghGvweVRMMyxR0qKYCpyU7ykH3/5c058a3e-266d-4567-907d-f1bda77409ac?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=cdd12e35bbd220303957dc5603a4cc8e%2F20250421%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250421T164550Z&X-Amz-Expires=43200&X-Amz-Signature=37c7554fdbd63ffffdfa3bcf92c0037bb935b25468880b823d43f93b4d8209d0&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22Van%20Helsing%20%282004%29%201080p%2010bit%20BluRay%20UHD%20HDR%20120FPS%20x265%20HEVC%20%5BHindi%20%2B%20English%5D%20-%20Vegamovies.NL.mkv%22
 #EXTINF:-1 tvg-id="" tvg-name="The Dictator (2012)" tvg-logo="https://m.media-amazon.com/images/I/91fz0MzTWTL._AC_UF1000,1000_QL80_.jpg" group-title="Holly Movies",The Dictator (2012)
 https://dn721805.ca.archive.org/0/items/the.-dictator.-2012.720p.-hindi-english.-vegamovies.-nl/The.Dictator.2012.720p.Hindi-English.%5BVegamovies.NL%5D.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Deadpool (2016)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Deadpool_%282016_poster%29.png" group-title="Holly Movies",Deadpool (2016)
 https://akirabox.com/download/eyJpdiI6IldMR3BUcCtYMkVxaERoQnVLSVMvSlE9PSIsInZhbHVlIjoiZGlCOTlJVnp0aERGb21iRERiZFJ5V3RvWU8zeWpKbzduaFFvR0hReENubz0iLCJtYWMiOiI4MDFiN2RkMTA4Y2FkODM0YTgwMmI4ZDIxZTU3NjczZGFmMDc4MWU2ZTlhOTJhYTYwMTllZThiZjM2MGZiM2VjIiwidGFnIjoiIn0=/Copy%20of%20Deadpool%20%282016%29%201080p%2010bit%20BluRay%2060FPS%20x265%20HEVC%20%5BHindi%20+%20English%5D%20-%20ViiR.mkv?expiration=1746631037&signature=fb159a7f7c678875fcdc11912a1c00f8cea434e11ba39e1e4d78cc2d4f71af5c
-
+#EXTM3U
+#EXTINF:-1 tvg-name="Shahenshah (1988)" tvg-logo="http://tv.zaintv.net:80/images/2ZUpj73MzEh2YwVzJNVUqBSu2LZ_big.jpg" group-title="Hindi gOld Movies",Shahenshah (1988)
+http://vodlb2.zaintv.net:80/meDia/MoVies/HindiMov/Old/Shahenshah.1988.1080p.WEBRip.x264.AAC.YTS.MX.mp4
+#EXTINF:-1 tvg-name="Sangharsh (1999)" tvg-logo="http://tv.zaintv.net:80/images/kFwreKZPhTSQ9zcVsavZ5JuUgfL_big.jpg" group-title="Hindi gOld Movies",Sangharsh (1999)
+http://vodlb2.zaintv.net:80/meDia/MoVies/HindiMov/Old/Sangharsh.1999.1080p.WEBRip.x264.AAC.YTS.MX.mp4
+#EXTINF:-1 tvg-name="Parinda (1989)" tvg-logo="http://tv.zaintv.net:80/images/5iVDKpzPr1egzNsKjIDL2maVEe5_big.jpg" group-title="Hindi gOld Movies",Parinda (1989)
+http://vodlb2.zaintv.net:80/meDia/MoVies/HindiMov/Old/Parinda.1989.1080p.WEBRip.x264.AAC.YTS.MX.mp4
+#EXTINF:-1 tvg-name="Nadiya Ke Paar (1982)" tvg-logo="http://tv.zaintv.net:80/images/1qhUaP7kqsbO7P6JWgjITtkWnfn_big.jpg" group-title="Hindi gOld Movies",Nadiya Ke Paar (1982)
+http://vodlb2.zaintv.net:80/meDia/MoVies/HindiMov/Old/Nadiya.Ke.Paar.1982.1080p.WEBRip.x264.AAC.YTS.MX.mp4
+#EXTINF:-1 tvg-name="Mirch Masala (1987)" tvg-logo="http://tv.zaintv.net:80/images/u5nYdZx65OGZ7YLJlqYD6ZVME3n_big.jpg" group-title="Hindi gOld Movies",Mirch Masala (1987)
+http://vodlb2.zaintv.net:80/meDia/MoVies/HindiMov/Old/Mirch.Masala.1987.1080p.WEBRip.x264.AAC.YTS.MX.mp4
+#EXTINF:-1 tvg-name="Majboor (1974)" tvg-logo="http://tv.zaintv.net:80/images/nxPN35z12oFvINotxEDZXQNOASb_big.jpg" group-title="Hindi gOld Movies",Majboor (1974)
+http://vodlb2.zaintv.net:80/meDia/MoVies/HindiMov/Old/Majboor.1974.1080p.WEBRip.x264.AAC.YTS.MX.mp4
+#EXTINF:-1 tvg-name="Khuddar (1994)" tvg-logo="http://tv.zaintv.net:80/images/wZJvyf34XRvOjORBx60uOTyzN5t_big.jpg" group-title="Hindi gOld Movies",Khuddar (1994)
+http://vodlb2.zaintv.net:80/meDia/MoVies/HindiMov/Old/Khuddar.1994.1080p.WEBRip.x264.AAC.YTS.MX.mp4
+#EXTINF:-1 tvg-name="Gumrah (1993)" tvg-logo="http://tv.zaintv.net:80/images/iNof5RDsUnhnT9iqxGWSyywGqoy_big.jpg" group-title="Hindi gOld Movies",Gumrah (1993)
+http://vodlb2.zaintv.net:80/meDia/MoVies/HindiMov/Old/Gumrah.1993.1080p.WEBRip.x264.AAC.YTS.MX.mp4
+#EXTINF:-1 tvg-name="Doosara Aadmi (1977)" tvg-logo="http://tv.zaintv.net:80/images/aTrTXxnLOXjQrnY6i7ys8E1xzAX_big.jpg" group-title="Hindi gOld Movies",Doosara Aadmi (1977)
+http://vodlb2.zaintv.net:80/meDia/MoVies/HindiMov/Old/Doosara.Aadmi.1977.1080p.WEBRip.x264.AAC5.1.YTS.MX.mp4
+#EXTINF:-1 tvg-name="Dastak (1970)" tvg-logo="http://tv.zaintv.net:80/images/lOunEqiUv76E66RqPRtKGOVI7dw_big.jpg" group-title="Hindi gOld Movies",Dastak (1970)
+http://vodlb2.zaintv.net:80/meDia/MoVies/HindiMov/Old/Dastak.1970.1080p.WEBRip.x264.AAC.YTS.MX.mp4
+#EXTINF:-1 tvg-name="Bombay to Goa (1972)" tvg-logo="http://tv.zaintv.net:80/images/bpCsHkVRJVfa4aOQgiW3ClEKGPb_big.jpg" group-title="Hindi gOld Movies",Bombay to Goa (1972)
+http://vodlb2.zaintv.net:80/meDia/MoVies/HindiMov/Old/Bombay.To.Goa.1972.720p.WEBRip.x264.AAC.YTS.MX.mp4
+#EXTINF:-1 tvg-name="Besharam (1978)" tvg-logo="http://tv.zaintv.net:80/images/6k8EcLDLf76wJSoB17JnuTYf0oo_big.jpg" group-title="Hindi gOld Movies",Besharam (1978)
+http://vodlb2.zaintv.net:80/meDia/MoVies/HindiMov/Old/Besharam.1978.1080p.WEBRip.x264.AAC.YTS.MX.mp4
+#EXTINF:-1 tvg-name="Anand (1971)" tvg-logo="http://tv.zaintv.net:80/images/zJ1Z1m7E4fhYIfjud6kDuIjrXGz_big.jpg" group-title="Hindi gOld Movies",Anand (1971)
+http://vodlb2.zaintv.net:80/meDia/MoVies/HindiMov/Old/Anand.1971.1080p.BluRay.x264.YTS.AM.mp4
+#EXTINF:-1 tvg-name="Aaina (1977)" tvg-logo="http://tv.zaintv.net:80/images/7WKdOSl5KfU9Fv3EXp5YTAakZ1W_big.jpg" group-title="Hindi gOld Movies",Aaina (1977)
+http://vodlb2.zaintv.net:80/meDia/MoVies/HindiMov/Old/Aaina.1977.1080p.WEBRip.x264.AAC5.1.YTS.MX.mp4
+#EXTINF:-1 tvg-name="Don (1978)" tvg-logo="http://tv.zaintv.net:80/images/eLEm9tBAqfQgHIyACcnPBFMkMAt_big.jpg" group-title="Hindi gOld Movies",Don (1978)
+http://vodlb2.zaintv.net:80/meDia/MoVies/HindiMov/Old/Don.1978.HD.Hindi.Full.Movie.Amitabh.Bachchan.Zeenat.Aman.mp4
+#EXTINF:-1 tvg-name="Sholay (1975)" tvg-logo="http://tv.zaintv.net:80/images/AfXw3LGbywC4jxpHZ46sMnkh7nl_big.jpg" group-title="Hindi gOld Movies",Sholay (1975)
+http://vodlb2.zaintv.net:80/meDia/MoVies/HindiMov/Old/Sholay.1975.1080p.WEBRip.x264YTS.AM.mp4
+#EXTINF:-1 tvg-name="Khiladi (1992) 4K" tvg-logo="http://tv.zaintv.net:80/images/Adar3XOiv7ckSbxnIWgsbb9XNGu_big.jpg" group-title="Hindi gOld Movies",Khiladi (1992) 4K
+http://vodlb2.zaintv.net:80/meDia/MoVies/HindiMov/Old/Khiladi.1992.Unrated.1080p.10bit.AMZN.WEBRip.x265.HEVC.Hindi.DDP.2.0.ESub.mkv
+#EXTINF:-1 tvg-name="Virus (2019) [MultiAudio]" tvg-logo="http://tv.zaintv.net:80/images/aATpxM56Dw88XD0gvuqhlxnpTYm_big.jpg" group-title="IN South [MultiAudio]",Virus (2019) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Malya/2020/Virus.2020.720p.WEBRip.x264.AAC.Multi.Aud.Tel+Tam+Mal.mkv
+#EXTINF:-1 tvg-name="Kannum Kannum Kollaiyadithaal (2020)" tvg-logo="http://tv.zaintv.net:80/images/i31lh7FJkzElUdsLSnE9gVUXl5H_big.jpg" group-title="IN South [MultiAudio]",Kannum Kannum Kollaiyadithaal (2020)
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2020/Kannum.Kannum.Kollaiyadithaal.2020.720p.HDRip.Org.Auds.Malayalam.+.Tamil.1.4GB.ESub.mkv
+#EXTINF:-1 tvg-name="Shadow (2020)[MultiAudio]" tvg-logo="https://i1.wp.com/watch4k.me/wp-content/uploads/2020/11/Shadow-New-Tamil-Poster.jpg?fit=165%2C220&ssl=1" group-title="IN South [MultiAudio]",Shadow (2020)[MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2020/SHADOW.2020.720p.HDRip.Org.Tamil.+.Tel.+.Hin.1.4GB.mkv
+#EXTINF:-1 tvg-name="Aravinda Sametha Veera Raghava (2018) [MultiAudio]" tvg-logo="http://tv.zaintv.net:80/images/iiATQvmmOORDBtBhcOSMB6W5bWz_big.jpg" group-title="IN South [MultiAudio]",Aravinda Sametha Veera Raghava (2018) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Kannada/Aravinda.Sametha.Veera.Raghava.2018.UNCUT.720p.WEB-HDRip.x264.Dual.Audio.Hindi.Kannada.mkv
+#EXTINF:-1 tvg-name="Ghatak Raat (2018) [MultiAudio]" tvg-logo="http://tv.zaintv.net:80/images/wwBhkAcWC5wPW39m9LQLaxgFze3_big.jpg" group-title="IN South [MultiAudio]",Ghatak Raat (2018) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Kannada/Ghatak.Raat.2020.South.Hindi.Dubbed.720p.HDRip.x264.AAC.mkv
+#EXTINF:-1 tvg-name="Velaiilla Pattadhari 2 (2017) [MultiAudio]" tvg-logo="http://tv.zaintv.net:80/images/5PcVo8sQ5FwrEE5uXAksUhRG67U_big.jpg" group-title="IN South [MultiAudio]",Velaiilla Pattadhari 2 (2017) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2018/VIP.2.Velaiilla.Pattadhari.2.2017.Tamil.Hindi.Dubbed.Full.Movie.Dhanush.mp4
+#EXTINF:-1 tvg-name="Saakshyam (2018) [MultiAudio]" tvg-logo="http://tv.zaintv.net:80/images/spIPo5iq5Z0ZAfwylX51Re2HuP4_big.jpg" group-title="IN South [MultiAudio]",Saakshyam (2018) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2020/Saakshyam.Uncut.720p.Hd.Desiremovies.uno.mkv
+#EXTINF:-1 tvg-name="Mookuthi Amman (2020) [MultiAudio]" tvg-logo="http://tv.zaintv.net:80/images/h8M7Z5cpmb0HJg4b4IGKBOU3JZV_big.jpg" group-title="IN South [MultiAudio]",Mookuthi Amman (2020) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2020/Mookuthi.Amman.2020.720p.WEBRip.x264.AAC.Dual.Aud.Tam+Tel.ESub.mkv
+#EXTINF:-1 tvg-name="Prati Roju Pandage (2019) [MultiAudio]" tvg-logo="http://tv.zaintv.net:80/images/j6jo3J0jKYOAMMm01fH5kbbb6AF_big.jpg" group-title="IN South [MultiAudio]",Prati Roju Pandage (2019) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2020/Har.Din.Diwali.Prati.Roju.Pandage.2020.1080p.AMZN.WeB.DL.AVC.AAC.2.0.DusIcTv.mkv
+#EXTINF:-1 tvg-name="Time Machine (2015) [Hindi]" tvg-logo="http://tv.zaintv.net:80/images/qEb9SRsZlhwXi8RrKDO12ymm9xY_big.jpg" group-title="IN South [MultiAudio]",Time Machine (2015) [Hindi]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2019/TIME.MACHINE.Best.South.Indian.Hindi.Dubbed.Movie.2019.mp4
+#EXTINF:-1 tvg-name="Tholi Prema (2018) [Hindi]" tvg-logo="http://tv.zaintv.net:80/images/6MHOVeocRLz20acZ9WrWtHD1bbh_big.jpg" group-title="IN South [MultiAudio]",Tholi Prema (2018) [Hindi]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2018/Tholi.Prema.HD.New.Romantic.Hindi.Dubbed.Full.Movie.Varun.Tej.Raashi.Khanna.mp4
+#EXTINF:-1 tvg-name="Maasthi Gudi (2017) [Hindi]" tvg-logo="http://tv.zaintv.net:80/images/2q8XZcCFyHgriUEZ5czqL2kQpp2_big.jpg" group-title="IN South [MultiAudio]",Maasthi Gudi (2017) [Hindi]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2018/Maasthi.Gudi.2017.Hindi.Dubbed.Full.Movie.Duniya.Vijay.Kriti.Kharbanda.Amulya.mp4
+#EXTINF:-1 tvg-name="Raatchasi (2019) [Hindi]" tvg-logo="http://tv.zaintv.net:80/images/uLE57OZPq9opQJhkHfijkSpCkVQ_big.jpg" group-title="IN South [MultiAudio]",Raatchasi (2019) [Hindi]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2019/Madam.Geeta.Rani.Raatchasi.2019.Hindi.1080p.WebDL.x264.AAC.-.Telly.mp4
+#EXTINF:-1 tvg-name="Jaya Janaki Nayaka (2017) [Hindi]" tvg-logo="http://tv.zaintv.net:80/images/eB2aF05kTEcH9Bhu5JY7BNNrgAm_big.jpg" group-title="IN South [MultiAudio]",Jaya Janaki Nayaka (2017) [Hindi]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2018/Jaya.Janaki.Nayaka.KHOONKHAR.Full.Hindi.Dubbed.Movie.Bellamkonda.Sreenivas.mp4
+#EXTINF:-1 tvg-name="Sita (2019) [Hindi]" tvg-logo="http://tv.zaintv.net:80/images/9s629MKjTxzCotDaFNy3qOTj0BM_big.jpg" group-title="IN South [MultiAudio]",Sita (2019) [Hindi]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2019/Sita.2019.Telugu.HindiDub.mp4
+#EXTINF:-1 tvg-name="Barot House (2019)" tvg-logo="http://tv.zaintv.net:80/images/abzKYvfeFYCLJvwc4ZUpdU3YQ7Q_big.jpg" group-title="IN South [MultiAudio]",Barot House (2019)
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2020/Barot.House.2019.1080p.HDRip.Org.Telugu.+.Tamil.+.Hindi.+.Mal.1.6GB.ESub.mkv
+#EXTINF:-1 tvg-name="Nishabdham (2020)" tvg-logo="http://tv.zaintv.net:80/images/d3e68bM6SUk4UuE7K6kNwcRiTRu_big.jpg" group-title="IN South [MultiAudio]",Nishabdham (2020)
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2020/Nishabdham.2020.720p.WEBRip.x264.AAC.Multi.Aud..Tel+.Kan.+.Mal..ESub.mkv
+#EXTINF:-1 tvg-name="Serious Men (2020) [MultiAudio]" group-title="IN South [MultiAudio]",Serious Men (2020) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2020/Serious.Men.2020.720p.HDRip.DD+5.1.192Kbps.Tel.Tam.Hin.1.3GB.ESub.mkv
+#EXTINF:-1 tvg-name="PSYCHO (2020) [MultiAudio]" group-title="IN South [MultiAudio]",PSYCHO (2020) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2020/PSYCHO.2020.1080p.HDRip.HEVC.Tel.Org.Aud.Tam.5.1..1.6GB.ESub.mkv
+#EXTINF:-1 tvg-name="Naked (2020) [MultiAudio]" group-title="IN South [MultiAudio]",Naked (2020) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2020/Naked.2020.720p.S-01.HDRip.Telugu.Tamil.Hindi.1.6GB.mkv
+#EXTINF:-1 tvg-name="Mrs and Mr Khurana (2020) [MultiAudio]" group-title="IN South [MultiAudio]",Mrs and Mr Khurana (2020) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2020/Mrs.and.Mr.Khurana.2020.HDRip.S-01.Telugu.Tamil.Hindi.350MB.mkv
+#EXTINF:-1 tvg-name="MISS INDIA (2020) [MultiAudio]" group-title="IN South [MultiAudio]",MISS INDIA (2020) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2020/MISS.INDIA.2020.1080p.HDRip.HEVC.Org.Tel.Tam.Mal.1.6GB.ESub.mkv
+#EXTINF:-1 tvg-name="Manasunnodu (2019) [MultiAudio]" group-title="IN South [MultiAudio]",Manasunnodu (2019) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2020/Manasunnodu.2019.720p.HDRip.Tel.Org.Aud.Tam.1.4GB.ESub.mkv
+#EXTINF:-1 tvg-name="Mafia (2020) [MultiAudio]" group-title="IN South [MultiAudio]",Mafia (2020) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2020/Mafia.2020.720p.S-01.Ep-01-08.Telugu.Tamil.Hindi.1.4GB.ESub.mkv
+#EXTINF:-1 tvg-name="Khaali Peeli (2020) [MultiAudio]" group-title="IN South [MultiAudio]",Khaali Peeli (2020) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2020/Khaali.Peeli.2020.720p.Proper.HDRip.Org.Auds.Telugu.Tamil.Hindi.1.3GB.ESub.mkv
+#EXTINF:-1 tvg-name="Idiot Box (2020) [MultiAudio]" group-title="IN South [MultiAudio]",Idiot Box (2020) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2020/Idiot.Box.2020.720p.S-01.HDRip.Telugu.Tamil.Hindi.1.1GB.mkv
+#EXTINF:-1 tvg-name="Dangerous (2020)" tvg-logo="http://tv.zaintv.net:80/images/vTtkQGC7qKlSRQJZYtAWAmYdH0A_big.jpg" group-title="IN South [MultiAudio]",Dangerous (2020)
+http://vodlb1.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2020/Dangerous.2020.720p.S-01.Ep.01-07.HDRip.Telugu.Tamil.Hindi.1.3GB.mkv
+#EXTINF:-1 tvg-name="Bhaukaal (2020) [MultiAudio]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AtJ3wC0GhROcelqE8RNM5j4vgNj.jpg" group-title="IN South [MultiAudio]",Bhaukaal (2020) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2020/Bhaukaal.2020.720p.S-01.HDRip.Telugu.Tamil.Hindi.1.6GB.mkv
+#EXTINF:-1 tvg-name="Vunnadhi Okate Zindagi (2017)" tvg-logo="http://tv.zaintv.net:80/images/kxinY0WuTqZsEVHTPDCwuL5KiHw_big.jpg" group-title="IN South [MultiAudio]",Vunnadhi Okate Zindagi (2017)
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2020/Vunnadhi.Okate.Zindagi.2017.720p.HDRip.Tam.Org.Aud.Tel.Hin.1.4GB.ESub.mkv
+#EXTINF:-1 tvg-name="Tiger (2015)" tvg-logo="http://tv.zaintv.net:80/images/_big.jpg" group-title="IN South [MultiAudio]",Tiger (2015)
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2020/Tiger.2015.720p.HDRip.Tam.Org.Aud.Tel.Hin.1.2GB.mkv
+#EXTINF:-1 tvg-name="Sura (2010) [MultiAudio]" tvg-logo="http://tv.zaintv.net:80/images/xJVRc4xBZ87TPxJCcAYkIKWLPLS_big.jpg" group-title="IN South [MultiAudio]",Sura (2010) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2020/SURA.2010.720p.HDRip.Org.Tamil.Kan.Hindi.1.4GB.mkv
+#EXTINF:-1 tvg-name="Majili (2019) [MultiAudio]" tvg-logo="http://tv.zaintv.net:80/images/7Y9sZji8wsI5r4gOVBnb6CLBzrQ_big.jpg" group-title="IN South [MultiAudio]",Majili (2019) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2020/MAJILI.2019.720p.HDRip.Tam.Org.Aud.Tel.DD5.1.Hin.1.4GB.ESub.mkv
+#EXTINF:-1 tvg-name="Jai Simha (2018) [MultiAudio]" tvg-logo="http://tv.zaintv.net:80/images/sgv6o5DalFcw1jb8mJQzJ0wzpex_big.jpg" group-title="IN South [MultiAudio]",Jai Simha (2018) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2020/Jai.Simha.2018.720p.HDRip.Tamil.Telugu.5.1.Hindi.1.3GB.ESub.mkv
+#EXTINF:-1 tvg-name="Jaanu (2020) [MultiAudio]" tvg-logo="http://tv.zaintv.net:80/images/zIZZf5OZRAbvWcCfv9mNveO8uHy_big.jpg" group-title="IN South [MultiAudio]",Jaanu (2020) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2020/JAANU.2020.720p.TRUE.WEB-DL.AVC.Tam.Org.Aud.Tel.5.1.1.4GB.ESub.mkv
+#EXTINF:-1 tvg-name="F2: Fun and Frustration (2019) [MultiAudio]" tvg-logo="http://tv.zaintv.net:80/images/cuIiSZSPr7ioJJM5N0WZqSYLnJF_big.jpg" group-title="IN South [MultiAudio]",F2: Fun and Frustration (2019) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2020/F2.Fun.and.Frustration.2019.720p.HDRip.Tam.Tel.Hin.1.4GB.ESub.mkv
+#EXTINF:-1 tvg-name="Raahu (2020) [MultiAudio]" tvg-logo="http://tv.zaintv.net:80/images/fufWceNdIZRZLwL3WcQEeXJ7ubL_big.jpg" group-title="IN South [MultiAudio]",Raahu (2020) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2020/Baahu.Raahu.2020.720p.HDRip.Org.Tam.Tel.850MB.mkv
+#EXTINF:-1 tvg-name="Veera Bhoga Vasantha Rayalu (2018) [MultiAudio]" tvg-logo="http://tv.zaintv.net:80/images/8a3fOTdtJgR3lm9l9DKczwcQdqH_big.jpg" group-title="IN South [MultiAudio]",Veera Bhoga Vasantha Rayalu (2018) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2018/Veera.Bhoga.Vasantha.Rayalu.2018.UNCUT.720p.WEB-HDRipx264.DualAudio.HindiDD2.0.Telugu.2.0.mkv
+#EXTINF:-1 tvg-name="K.G.F: Chapter 1 (2018)" tvg-logo="http://tv.zaintv.net:80/images/ltHlJwvxKv7d0ooCiKSAvfwV9tX_big.jpg" group-title="IN South [MultiAudio]",K.G.F: Chapter 1 (2018)
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2018/K.G.F.Chapter.1.2018.Hindi.Dubbed.1080p.WEB-DL.x264.mp4
+#EXTINF:-1 tvg-name="Tik Tik Tik (2018)" tvg-logo="http://tv.zaintv.net:80/images/1CeVwJfKwIMqyiVUkE5MxU2IbLC_big.jpg" group-title="IN South [MultiAudio]",Tik Tik Tik (2018)
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2018/Tik.Tik.Tik.2018.720p.UnCut.HDRip.x264.Hindi.Tamil.Telugu.Line.1.4GB.ESub.MovCr.mkv
+#EXTINF:-1 tvg-name="Tenali Ramakrishna BA BL (2019)[MultiAudio]" tvg-logo="http://tv.zaintv.net:80/images/jaVmC7Hb0cv8sNNTb8hKfbQ0JsV_big.jpg" group-title="IN South [MultiAudio]",Tenali Ramakrishna BA BL (2019)[MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2019/Tenali.Ramakrishna.BA.BL.2019.720p.TRUE.WEB-DL.Org.Auds.Tamil.Telugu.900MB.ESub.mkv
+#EXTINF:-1 tvg-name="Singam Pettai Dohchay (2019)[MultiAudio]" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71bTh+zVi5L._RI_.jpg" group-title="IN South [MultiAudio]",Singam Pettai Dohchay (2019)[MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2019/Singam.Pettai.Dohchay.2019.720p.HDRip.Original.Tamil.Telugu.Hindi.1.4GB.ESub.mkv
+#EXTINF:-1 tvg-name="Puli Joodham (2019)[MultiAudio]" tvg-logo="https://www.filmibeat.com/img/190x100x237/popcorn/movie_posters/pulijoodham-20190320131159-18148.jpg" group-title="IN South [MultiAudio]",Puli Joodham (2019)[MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2019/Puli.Joodham.2019.720p.Proper.HDRip.Telugu.HQ.Line.Mal.Hin.1.4GB.ESub.mkv
+#EXTINF:-1 tvg-name="Petromax (2019)[MultiAudio]" tvg-logo="http://tv.zaintv.net:80/images/m8LQrSxh3I8FDZ2erJsqK4cGnyI_big.jpg" group-title="IN South [MultiAudio]",Petromax (2019)[MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2019/Petromax.2019.720p.HDRip.Original.Malayalam.Tamil.Telugu.1.4GB.ESub.mkv
+#EXTINF:-1 tvg-name="Naalavathu Singam (2019)[MultiAudio]" tvg-logo="https://alchetron.com/cdn/Pataas-images-8ee3a33c-b1b3-4100-89f9-0624dd2439d.jpg" group-title="IN South [MultiAudio]",Naalavathu Singam (2019)[MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2019/Naalavathu.Singam.2019.720p.HDRip.Org.Tamil.Telugu.1.3GB.ESub.mkv
+#EXTINF:-1 tvg-name="Mr  Majnu (2020)[MultiAudio]" tvg-logo="http://tv.zaintv.net:80/images/rY6fScdYUBgGDcMcZsIDPgX0Hvj_big.jpg" group-title="IN South [MultiAudio]",Mr  Majnu (2020)[MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2019/Mr..Majnu.2020.720p.HDRip.Org.Auds.Hindi.Telugu.1.4GB.ESub.mkv
+#EXTINF:-1 tvg-name="Marshal (2019)[MultiAudio]" tvg-logo="http://tv.zaintv.net:80/images/j1V916IS66UOX4X7eUgAPJyptYj_big.jpg" group-title="IN South [MultiAudio]",Marshal (2019)[MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2019/Marshal.2019.720p.HDRip.x264.Tamil.Org.Aud.Tel.ESub.mkv
+#EXTINF:-1 tvg-name="Mamangam (2019)[MultiAudio]" tvg-logo="http://tv.zaintv.net:80/images/y73yLU4CiiJWmKjBsgTMe0OiFuD_big.jpg" group-title="IN South [MultiAudio]",Mamangam (2019)[MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2019/Mamangam.2019.1080p.WEB-DL.H264.Multi.Hindi.-Tamil.-Telugu.DDP2.0.ESUB.~.Ranvijay.mkv
+#EXTINF:-1 tvg-name="Madhura Raja (2019)[MultiAudio]" tvg-logo="http://tv.zaintv.net:80/images/1zR6dr7FXk3TPHeoS3LeaLsP30_big.jpg" group-title="IN South [MultiAudio]",Madhura Raja (2019)[MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2019/Madhura.Raja.2019.720p.HDRip.Tamil.Original.Malayalam.1.4GB.mkv
+#EXTINF:-1 tvg-name="Maari 2 (2018)[MultiAudio]" tvg-logo="http://tv.zaintv.net:80/images/74cJLMYdFvmTAYXAdvmaSdLy3Xf_big.jpg" group-title="IN South [MultiAudio]",Maari 2 (2018)[MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2019/Maari.2.2018.720p.HDRip.Telugu.HQ.Line.Tamil.x264.1.4GB.HC-ESub.mkv
+#EXTINF:-1 tvg-name="Jiivi (2019)[MultiAudio]" tvg-logo="http://tv.zaintv.net:80/images/4zrEE81GHnehhLOKUfc9oCDdOAK_big.jpg" group-title="IN South [MultiAudio]",Jiivi (2019)[MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2019/Jiivi.2019.720p.Tamil.Proper.HDRip.x264.DD5.1.224kbps.1.3GB.ESub.mkv
+#EXTINF:-1 tvg-name="Jersey (2019)[MultiAudio]" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjc0MWFiYTMtNmYyOS00ODczLWEyMzItNzI4YjY0YjJjZGVjXkEyXkFqcGdeQXVyNzEwNjg3MjE@._V1_.jpg" group-title="IN South [MultiAudio]",Jersey (2019)[MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2019/Jersey.2019.1080p.HDRip.HEVC.Org.Auds.Telugu.Kan.Hin.1.6GB.ESub.mkv
+#EXTINF:-1 tvg-name="Dear Comrade (2020)[MultiAudio]" tvg-logo="http://tv.zaintv.net:80/images/xP3hGZkh87YPOmrAdj3jp9uYILH_big.jpg" group-title="IN South [MultiAudio]",Dear Comrade (2020)[MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2019/Dear.Comrade.2020.720p.HDRip.Org.Auds.Mal.Tel.Kan.Hin.1.4GB.ESub.mkv
+#EXTINF:-1 tvg-name="City of Dreams (2019)[MultiAudio]" tvg-logo="http://tv.zaintv.net:80/images/_big.jpg" group-title="IN South [MultiAudio]",City of Dreams (2019)[MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2019/City.of.Dreams.2019.HDRip.Telugu.Tam.Hin.Mal.Kan.1.4GB.mkv
+#EXTINF:-1 tvg-name="Bigil (2019)[MultiAudio]" tvg-logo="http://tv.zaintv.net:80/images/aaZX7jvKGgTK9VoZpo5DAPL6lET_big.jpg" group-title="IN South [MultiAudio]",Bigil (2019)[MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2019/Bigil.2019.720p.Proper.HDRip.Original.Kan.Tel.Tam.Mal.1.4GB.ESub.mkv
+#EXTINF:-1 tvg-name="Airaa (2019)[MultiAudio]" tvg-logo="http://tv.zaintv.net:80/images/axlTEfbaGxnTq0QAwEkBQN8doFY_big.jpg" group-title="IN South [MultiAudio]",Airaa (2019)[MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2019/Airaa.2019.720p.UNCUT.HDRip.x264.Eng.Subs.Dual.Audio.Hindi.DD.2.0.Tamil.5.1.mkv
+#EXTINF:-1 tvg-name="After (2019)[MultiAudio]" tvg-logo="https://i.pinimg.com/564x/6c/bc/e2/6cbce2afe8f954f80ad6ff9ea844df0d.jpg" group-title="IN South [MultiAudio]",After (2019)[MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2019/After.2019.1080p.BluRay.Telugu.Eng.1.9GB.mkv
+#EXTINF:-1 tvg-name="Action (2019)[MultiAudio]" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTdkNGY5YjItOWU5OC00NTA0LTkxMGEtZDRlNWZmMmI2ZGZmXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UY1200_CR285,0,630,1200_AL_.jpg" group-title="IN South [MultiAudio]",Action (2019)[MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2019/Action.2019.720p.HDRip.Telugu.HQ.Line.Tamil.1.4GB.ESub.mkv
+#EXTINF:-1 tvg-name="Abhinetri 2 (2019)[MultiAudio]" tvg-logo="http://tv.zaintv.net:80/images/wLlXtwfrydDRFibqsa5zKRLiiOu_big.jpg" group-title="IN South [MultiAudio]",Abhinetri 2 (2019)[MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2019/Abhinetri.2.2019.720p.Proper.HDRip.x264.Tel.HQ.Line.Tam.1.4GB.ESub.mkv
+#EXTINF:-1 tvg-name="Aagadu (2014)[MultiAudio]" tvg-logo="http://tv.zaintv.net:80/images/4pAnEs9FUCP3ul0KN1pLYP9FSBa_big.jpg" group-title="IN South [MultiAudio]",Aagadu (2014)[MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2019/Aagadu.2014.720p.BluRay.Telugu.Tamil.Hindi.1.4GB.ESub.mkv
+#EXTINF:-1 tvg-name="90ML Idhi ChalaThakkuva (2019)[MultiAudio]" tvg-logo="https://pbs.twimg.com/media/DzsHTKZU0AAs_aw.jpg" group-title="IN South [MultiAudio]",90ML Idhi ChalaThakkuva (2019)[MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2019/90ML.Idhi.ChalaThakkuva.2019.720p.Proper.HDRip.x264.Tel.HQ.Line.Tam.DD5.11.4GB.ESub.mkv
+#EXTINF:-1 tvg-name="100 (2019)[MultiAudio]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Poster_of_100.jpg" group-title="IN South [MultiAudio]",100 (2019)[MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2019/100.2019.1080p.HDRip.Original.Tel.Tam.2.6GB.ESub.mkv
+#EXTINF:-1 tvg-name="Vella Raja (2018) [MultiAudio]" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTAxZTNlN2ItMmZmNy00NWQ0LWFkMTYtM2U5ZTVlNWY1NjY2XkEyXkFqcGdeQXVyMTU0MzI1OTY@._V1_SY1000_CR0,0,639,1000_AL_.jpg" group-title="IN South [MultiAudio]",Vella Raja (2018) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2018/Vella.Raja.2018.720p.HDRip.Season-1.Complete.Tamil.Hindi.1.7GB.ESub.mkv
+#EXTINF:-1 tvg-name="Touch Chesi Chudu (2018) [" tvg-logo="http://tv.zaintv.net:80/images/nbjRmZ8VqQJm1id2p5BCGcPOXdd_big.jpg" group-title="IN South [MultiAudio]",Touch Chesi Chudu (2018) [
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2018/Touch.Chesi.Chudu.2018.1080p.HDRip.Org.Auds.Telugu.Tamil.Hindi.2.5GB.ESub.mkv
+#EXTINF:-1 tvg-name="Taxiwaala (2018) [MultiAudio]" tvg-logo="http://tv.zaintv.net:80/images/22nSwWSQ0sgo9gJxjWaGRlIJ0Mc_big.jpg" group-title="IN South [MultiAudio]",Taxiwaala (2018) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2018/Taxiwaala.2018.1080p.HDRip.HEVC.Original.Tel.Tam.Hin.Mal.1.6GB.ESub.mkv
+#EXTINF:-1 tvg-name="Sadugudu Vandi Taxiwaala (2018) [MultiAudio]" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_2_5x/sources/r1/cms/prod/7247/757247-v" group-title="IN South [MultiAudio]",Sadugudu Vandi Taxiwaala (2018) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2018/Sadugudu.Vandi.Taxiwaala.2018.720p.HDRip.Org.Tam.Tel.1.4GB.ESub.mkv
+#EXTINF:-1 tvg-name="OPERATION RED SEA (2018) [MultiAudio]" tvg-logo="http://tv.zaintv.net:80/images/6ctXBO0o5fKQvGdSJsPc8TAYCvp_big.jpg" group-title="IN South [MultiAudio]",OPERATION RED SEA (2018) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2018/OPERATION.RED.SEA.2018.1080p.Blu.Ray.DD5.1.Tel.Tam.Hin.Eng.2.6GB.ESub.mkv
+#EXTINF:-1 tvg-name="Naa Peru Surya, Naa Illu India (2018) [MultiAudio]" tvg-logo="http://tv.zaintv.net:80/images/46zecZYX8rWeDlr5PosCd1bC1Up_big.jpg" group-title="IN South [MultiAudio]", Naa Illu India (2018) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2018/Naa.Peru.Surya,.Naa.Illu.India.2018.1080p.TRUE.WEB-DL.AVC.Tel.Tam.Hin.Mal.2.6GB.ESub.mkv
+#EXTINF:-1 tvg-name="Mirzapur (2018) [MultiAudio]" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWUyYWNiODItNjdmNS00ZDhlLWE0YjQtNGEyMDg3ODJiMTM3XkEyXkFqcGdeQXVyODQ5NDUwMDk@._V1_.jpg" group-title="IN South [MultiAudio]",Mirzapur (2018) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2018/Mirzapur.2018.720p.HDRip.Season.1.Complete.Telugu.Tamil.Hindi.x264.2.7GB.ESub.mkv
+#EXTINF:-1 tvg-name="Inttelligent (2018) [MultiAudio]" tvg-logo="http://tv.zaintv.net:80/images/i0V0whT9KIAP1dwr5SihiyzYTt1_big.jpg" group-title="IN South [MultiAudio]",Inttelligent (2018) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2018/Inttelligent.2018.1080p.HDRip.Org.Auds.Telugu.Tamil.Hindi.2.5GB.ESub.mkv
+#EXTINF:-1 tvg-name="Hotel Transylvania 3 (2018) [MultiAudio]" tvg-logo="http://tv.zaintv.net:80/images/gjAFM4xhA5vyLxxKMz38ujlUfDL_big.jpg" group-title="IN South [MultiAudio]",Hotel Transylvania 3 (2018) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2018/Hotel.Transylvania.3.2018.720p.BluRay.DD5.1.Tamil.Hindi.Eng.900MB.ESub.mkv
+#EXTINF:-1 tvg-name="Geetha Govindam (2018) [MultiAudio]" tvg-logo="http://tv.zaintv.net:80/images/sTreb0ajewXqeIqAyZ0IWtafoB5_big.jpg" group-title="IN South [MultiAudio]",Geetha Govindam (2018) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2018/Geetha.Govindam.2018.1080p.HDRip.HEVC.Original.Telugu.Tamil.Hindi.1.6GB.ESub.mkv
+#EXTINF:-1 tvg-name="Fantastic Beasts 2 (2018) [MultiAudio]" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81%2Bho37EJaL._SL1500_.jpg" group-title="IN South [MultiAudio]",Fantastic Beasts 2 (2018) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2018/Fantastic.Beasts.2.2018.720p.BluRay.Original.Telugu.Tamil.Hindi.Eng.1.4GB.Esub.mkv
+#EXTINF:-1 tvg-name="Bhaagamathie (2018) [MultiAudio]" tvg-logo="http://tv.zaintv.net:80/images/quGwnd4DjXOX25aLwuuRJJ5YmlS_big.jpg" group-title="IN South [MultiAudio]",Bhaagamathie (2018) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2018/Bhaagamathie.2018.720p.HQ.Real.DVDScr.x264.Tamil.Telugu.2GB.Line.Audio.mkv
+#EXTINF:-1 tvg-name="Badhaai Ho (2020) [MultiAudio]" tvg-logo="http://tv.zaintv.net:80/images/kvBp2QL4ba5tj4NSVkJJ1YvNUce_big.jpg" group-title="IN South [MultiAudio]",Badhaai Ho (2020) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2018/Badhaai.Ho.2020.720p.Blu-Ray.Tamil.Org.Aud.Hindi.1.1GB.ESub.mkv
+#EXTINF:-1 tvg-name="A Quiet Place (2018) [MultiAudio]" tvg-logo="http://tv.zaintv.net:80/images/nAU74GmpUk7t5iklEp3bufwDq4n_big.jpg" group-title="IN South [MultiAudio]",A Quiet Place (2018) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2018/A.Quiet.Place.2018.720p.BluRay.Original.Auds.Telugu.Tamil.Hindi.Eng.ESub.mkv
+#EXTINF:-1 tvg-name="Aquaman (2018) [MultiAudio]" tvg-logo="http://tv.zaintv.net:80/images/5Kg76ldv7VxeX9YlcQXiowHgdX6_big.jpg" group-title="IN South [MultiAudio]",Aquaman (2018) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2018/Aquaman.2018.1080p.BluRay.Original.DD5.1.Telugu.Tamil.Hindi.Eng.2.6GB.ESub.mkv
+#EXTINF:-1 tvg-name="Abadham Venuka (2018) [MultiAudio]" tvg-logo="https://s3.ap-south-1.amazonaws.com/cinebee-content/movie_images/movie/4670419100499968/jv3pgvny.jpg" group-title="IN South [MultiAudio]",Abadham Venuka (2018) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2018/Abadham.Venuka.2018.720p.HDRip.Telugu.Tamil.Hindi.Mal.S.01.Ep.01.to.08.x264.1.4GB.mkv
+#EXTINF:-1 tvg-name="The Stolen Princess: Ruslan and Ludmila (2018)" tvg-logo="http://tv.zaintv.net:80/images/titPCgI2xMAPv0Y2iasvqHj7vnv_big.jpg" group-title="IN South [MultiAudio]",The Stolen Princess: Ruslan and Ludmila (2018)
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2019/The.Stolen.Princess.2018.1080p.HDRip.Original.Telugu.Tamil.Hindi.Eng.1.7GB.ESub.mkv
+#EXTINF:-1 tvg-name="Badalte Chehre (2018)" tvg-logo="http://tv.zaintv.net:80/images/_big.jpg" group-title="IN South [MultiAudio]",Badalte Chehre (2018)
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2018/Badalte.Chehre.2018.Zee5.Originals.720p.HDRip.x264.Hindi.Tamil.Telugu.Malayalam.mkv
+#EXTINF:-1 tvg-name="Naalavathu Singam (2019)[MultiAudio]" tvg-logo="https://alchetron.com/cdn/Pataas-images-8ee3a33c-b1b3-4100-89f9-0624dd2439d.jpg" group-title="IN South [MultiAudio]",Naalavathu Singam (2019)[MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2019/Naalavathu.Singam.2019.720p.HDRip.Org.Tamil.Telugu.1.3GB.ESub.mkv
+#EXTINF:-1 tvg-name="MCA Middle Class Ambala (2019)[MultiAudio]" tvg-logo="http://tv.zaintv.net:80/images/oLik4b7KCP1NcKEOlbnSBfd4VfW_big.jpg" group-title="IN South [MultiAudio]",MCA Middle Class Ambala (2019)[MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2019/MCA.Middle.Class.Ambala.2019.720p.Proper.HDRi.Tamil.Org.Telugu.1.4GB.ESub.mkv
+#EXTINF:-1 tvg-name="Marshal (2019)[MultiAudio]" tvg-logo="http://tv.zaintv.net:80/images/j1V916IS66UOX4X7eUgAPJyptYj_big.jpg" group-title="IN South [MultiAudio]",Marshal (2019)[MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2019/Marshal.2019.720p.HDRip.x264.Tamil.Org.Aud.Tel.ESub.mkv
+#EXTINF:-1 tvg-name="Manikarnika The Queen of Jhansi (2019)[MultiAudio]" tvg-logo="http://tv.zaintv.net:80/images/kbTzlKKnZHZ8RYulknO4xqQOJ24_big.jpg" group-title="IN South [MultiAudio]",Manikarnika The Queen of Jhansi (2019)[MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2019/Manikarnika.The.Queen.of.Jhansi.2019.1080p.BluRay.x265.HEVC.Org.Auds.Telugu.Tamil.Hindi.1.6GB.ESub.mkv
+#EXTINF:-1 tvg-name="Madhura Raja (2019)[MultiAudio]" tvg-logo="http://tv.zaintv.net:80/images/1zR6dr7FXk3TPHeoS3LeaLsP30_big.jpg" group-title="IN South [MultiAudio]",Madhura Raja (2019)[MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2019/Madhura.Raja.2019.720p.HDRip.Tamil.Original.Malayalam.1.4GB.mkv
+#EXTINF:-1 tvg-name="Made in Heaven (2019)[MultiAudio]" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTk0YTQxZjAtMWIxNy00YjYyLTg3MmQtMGI2ZjE4NTM1MGNlXkEyXkFqcGdeQXVyODQ5NDUwMDk@._V1_.jpg" group-title="IN South [MultiAudio]",Made in Heaven (2019)[MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2019/Made.in.Heaven.2019.1080p.HDRipSeason.1Ep.1.to.10.Telugu.Tam.Hin.3.3GB.MSub.mkv
+#EXTINF:-1 tvg-name="Hostages (2019)[MultiAudio]" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjMwMTViZDQtM2ZkOC00NjIzLTliYjAtZTFmNWRlMzQ0NzI2XkEyXkFqcGdeQXVyODk2ODI3MTU@._V1_UY1200_CR285,0,630,1200_AL_.jpg" group-title="IN South [MultiAudio]",Hostages (2019)[MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2019/Hostages.2019.1080p.Proper.HDRip.S-01.Ep.01-10.Telugu.Tam.Hin.Mal.Kan.2.6GB.mkv
+#EXTINF:-1 tvg-name="Four More Shots Please (2019)[MultiAudio]" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjBhNTE2NTctZmVlOC00YmY5LTgxMzMtNmRjOTJlNzZiYmU0XkEyXkFqcGdeQXVyODQ5NDUwMDk@._V1_.jpg" group-title="IN South [MultiAudio]",Four More Shots Please (2019)[MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2019/Four.More.Shots.Please.2019.720p.HDRip.Season.01.Ep.1.to.10.x26.Telugu.Tamil.Hindi.2.9GB.mkv
+#EXTINF:-1 tvg-name=": Dha Dha (2019)[MultiAudio]" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzUyZWY1ZWMtNDBjYS00YmE3LWE1MDYtNjkwN2Q2MTRmMjkyXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg" group-title="IN South [MultiAudio]",: Dha Dha (2019)[MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2019/Dha.Dha.2019.720p.Proper.HDRi.Tamil.Org.Hin.x2641.4GB.mkv
+#EXTINF:-1 tvg-name="Descendants 3 (2019)[MultiAudio]" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM1MTgyNDQyOF5BMl5BanBnXkFtZTgwOTgwMjQ4NzM@._V1_SY1000_CR0,0,681,1000_AL_.jpg" group-title="IN South [MultiAudio]",Descendants 3 (2019)[MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2019/Descendants.3.2019.1080p.HDRip.Original.Telugu.Tamil.Hindi.Eng.1.8GB.ESub.mkv
+#EXTINF:-1 tvg-name="Criminal Justice (2019)[MultiAudio]" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzZhZTRlNDgtZjc1Yy00MjQyLTgyYjgtOTdhZmY4OGUxYmY0XkEyXkFqcGdeQXVyMTAyMTE1MDA1._V1_SY1000_CR0,0,707,1000_AL_.jpg" group-title="IN South [MultiAudio]",Criminal Justice (2019)[MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2019/Criminal.Justice.2019.v2.720p.HDRip.Season.1.Telugu.Tam.Hin.Mal.Kan.3.1GB.ESub.mkv
+#EXTINF:-1 tvg-name="Comali (2019)[MultiAudio]" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTliZjBlMGUtNGU0YS00ZTc0LWJjN2UtYmI0YzU1NzRjMDYxXkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_SY1000_CR0,0,639,1000_AL_.jpg" group-title="IN South [MultiAudio]",Comali (2019)[MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2019/Comali.2019.720p.TRUE.WEB-D.Mal.Org.Aud.Tam.Hin.1GB.ESub.mkv
+#EXTINF:-1 tvg-name="Baahubali The Lost Legends (2019)[MultiAudio]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Baahubali%2C_The_Lost_Legends.jpeg/250px-Baahubali%2C_The_Lost_Legends.jpeg" group-title="IN South [MultiAudio]",Baahubali The Lost Legends (2019)[MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2019/Baahubali.The.Lost.Legends.2019.720p.HDRip.S-04.E-.01-16.Telugu.Tamil.Hindi.Eng.2.4GB.mkv
+#EXTINF:-1 tvg-name="Alita Battle Angel (2019)[MultiAudio]" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQzYWYwYjctY2JhZS00NTYzLTllM2UtZWY5ZTk0NmYwYzIyXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_SY1000_CR0,0,675,1000_AL_.jpg" group-title="IN South [MultiAudio]",Alita Battle Angel (2019)[MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2019/Alita.Battle.Angel.2019.720p.HDTC.HQ.Line.Auds.Telugu.Tamil.Hindi.Eng.1GB.mkv
+#EXTINF:-1 tvg-name="100 (2019)[MultiAudio]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Poster_of_100.jpg" group-title="IN South [MultiAudio]",100 (2019)[MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2019/100.2019.1080p.HDRip.Original.Tel.Tam.2.6GB.ESub.mkv
+#EXTINF:-1 tvg-name=" Yengalai Pol Yaarum illai (2020) [MultiAudio]" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_2_5x/sources/r1/cms/prod/1398/551398-v" group-title="IN South [MultiAudio]", Yengalai Pol Yaarum illai (2020) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2020/Yengalai.Pol.Yaarum.illai.2020.720p.HDRip.Org.Auds.Tamil.+.Telugu.1.4GB.mkv
+#EXTINF:-1 tvg-name="Vasantha Kalam (2020) [MultiAudio]" tvg-logo="http://tv.zaintv.net:80/images/_big.jpg" group-title="IN South [MultiAudio]",Vasantha Kalam (2020) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2020/Vasantha.Kalam.2020.1080p.Proper.HDRip.x265.HEVC.Telugu.HQ.Line.+.Tamil.1.2GB.ESub.mkv
+#EXTINF:-1 tvg-name="Thoota (2020) [MultiAudio]" tvg-logo="https://www.filmibeat.com/img/popcorn/movie_posters/thoota-20191121102917-18974.jpg" group-title="IN South [MultiAudio]",Thoota (2020) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2020/Thoota.2020.1080p.Proper.HDRip.x265.HEVC.Telugu.HQ.Line.+.Tamil.1.6GB.ESub.mkv
+#EXTINF:-1 tvg-name="The Forgotten Army Azaadi ke liye (2020) [MultiAudio]" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg0OWI4OTEtZTYwOC00ODkzLWE3OGQtM2NmMGQxNGYxMDcyXkEyXkFqcGdeQXVyODQ5NDUwMDk@._V1_SY1000_SX750_AL_.jpg" group-title="IN South [MultiAudio]",The Forgotten Army Azaadi ke liye (2020) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2020/The.Forgotten.Army.Azaadi.ke.liye.2020.720p.Proper.HDRip.Telugu.+.Tamil.+.Hindi.1.4GB.ESub.mkv
+#EXTINF:-1 tvg-name="Siva Thandavam (2020) [MultiAudio]" tvg-logo="https://moviegalleri.net/wp-content/gallery/sivathandavam-movie-wallpapers/sivathandavam_movie_wallpapers_siva_thandavam_posters_3a94533.jpg" group-title="IN South [MultiAudio]",Siva Thandavam (2020) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2020/Siva.Thandavam.2020.1080p.B.ip.HEVC.Tel.Org.Aud.+.Tam.DD5.1..Hin.1.6GB.ESub.mkv
+#EXTINF:-1 tvg-name="Rajini (2020) [MultiAudio]" tvg-logo="https://www.sify.com/uploads/darbar5-thynzVicfeaic.jpg" group-title="IN South [MultiAudio]",Rajini (2020) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2020/Rajini.2020.1080p.HDRip.x264.Org.Aud.Telugu.+.Tamil.2.4GB.mkv
+#EXTINF:-1 tvg-name="Raja Narasimha (2020) [MultiAudio]" tvg-logo="http://tv.zaintv.net:80/images/_big.jpg" group-title="IN South [MultiAudio]",Raja Narasimha (2020) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2020/Raja.Narasimha.2020.1080p.Proper.WE.L.Telugu.HQ.Line.+.Malayalam.2.4GB.ESub.mkv
+#EXTINF:-1 tvg-name="Naan Enna Summava MLA (2020) [MultiAudio]" tvg-logo="https://tamilian.net/wp-content/uploads/2020/05/Naan-Enna-Summava-MLA-Poster.jpg" group-title="IN South [MultiAudio]",Naan Enna Summava MLA (2020) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2020/Naan.Enna.Summava.MLA.2020.720p.HDRip.Tamil.+.Telugu.+.Hindi.1.4GB.ESub.mkv
+#EXTINF:-1 tvg-name="Mrs and Mr Khurana (2020) [MultiAudio]" group-title="IN South [MultiAudio]",Mrs and Mr Khurana (2020) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2020/Mrs.and.Mr.Khurana.2020.HDRip.S-01.Telugu.Tamil.Hindi.350MB.mkv
+#EXTINF:-1 tvg-name="Local Boy (2020) [MultiAudio]" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjg3NTdmY2QtNThkNi00ZTY4LTg3NTYtNzFlYmI5OTM3NGQwXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_SY1000_CR0,0,666,1000_AL_.jpg" group-title="IN South [MultiAudio]",Local Boy (2020) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2020/Local.Boy.2020.1080p.Proper.HDRip.x265.HEVC.Telugu.HQ.Line.+.Tamil.1.6GB.ESub.mkv
+#EXTINF:-1 tvg-name="LIE (2020) [MultiAudio]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Lie_release_date_poster.jpg" group-title="IN South [MultiAudio]",LIE (2020) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2020/LIE.2020.720p.HDRip.Tam.OrgAud.+.Tel.+.Hin.1.4GB.ESub.mkv
+#EXTINF:-1 tvg-name="Krishnan Sarileru Neekevvaru (2020) [MultiAudio]" tvg-logo="https://extraimage.com/images/2020/09/06/bfb7ce2fa6.md.jpg" group-title="IN South [MultiAudio]",Krishnan Sarileru Neekevvaru (2020) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2020/Krishnan.Sarileru.Neekevvaru.2020.720p.HDRip.Org.Auds.Mal.+.Tel.+.Kan.1.4GB.ESub.mkv
+#EXTINF:-1 tvg-name="KAITHI (2020) [MultiAudio]" tvg-logo="http://tv.zaintv.net:80/images/hOF9CgPsy9aLr5GJEBESC8MEXFy_big.jpg" group-title="IN South [MultiAudio]",KAITHI (2020) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2020/KAITHI.2020.720p.HDRip.Org.Auds.Malayalam.Tamil.Telugu.1.4GB.ESub.mkv
+#EXTINF:-1 tvg-name="Ivan Kavalkaran Kavacham (2020) [MultiAudio]" tvg-logo="https://i.imgur.com/vzl5Pi5.jpg" group-title="IN South [MultiAudio]",Ivan Kavalkaran Kavacham (2020) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2020/Ivan.Kavalkaran.Kavacham.2020.720p.HDRip.Org.Auds.Tamil.+.Telugu.+.Hindi.1.4GB.ESub.mkv
+#EXTINF:-1 tvg-name="Inka Emaina (2020) [MultiAudio]" tvg-logo="https://static.digit.in/OTT/v2/images/tr:n-ott_home_crousel/inka-emaina-88982.jpg" group-title="IN South [MultiAudio]",Inka Emaina (2020) [MultiAudio]
+http://vodlb1.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2020/Inka.Emaina.2020.720p..1.E.0.6.HDRip.Telugu.+.Tamil.750MB.mkv
+#EXTINF:-1 tvg-name="Boomerang (2020) [MultiAudio]" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzgyMTkzOWQtMGRjMi00NWFhLWEwMWQtNDhmMzUxZDExNGI0XkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_.jpg" group-title="IN South [MultiAudio]",Boomerang (2020) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2020/Boomerang.2020.1080p.Proper.HDRip.Telugu.HQ.Line.+.Tamil.1.6GB.ESub.mkv
+#EXTINF:-1 tvg-name="Asura Vettai (2020) [MultiAudio]" tvg-logo="https://movie9.github.io/media/posts/80/asuar-vettai-movie-poster.jpg" group-title="IN South [MultiAudio]",Asura Vettai (2020) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2020/Asura.Vettai.2020.720p.HDRip.Tamil.Org.Aud.+.Telugu.+.Hindi.Line..1.4GB.mkv
+#EXTINF:-1 tvg-name="Ivan Kavalkaran Kavacham (2020) [MultiAudio]" tvg-logo="https://i.imgur.com/vzl5Pi5.jpg" group-title="IN South [MultiAudio]",Ivan Kavalkaran Kavacham (2020) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Telgu/2020/Ivan.Kavalkaran.Kavacham.2020.720p.HDRip.Org.Auds.Tamil.+.Telugu.+.Hindi.1.4GB.ESub.mkv
+#EXTINF:-1 tvg-name="Danny (2020) [MultiAudio]" tvg-logo="http://tv.zaintv.net:80/images/m7LAOhmCWvFtxeM4eRjWmhw6Sm6_big.jpg" group-title="IN South [MultiAudio]",Danny (2020) [MultiAudio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2020/DANNY.2020.720p.Tamil.TRUE.WEB-DL.AVC.DD5.1.mkv
+#EXTINF:-1 tvg-name="Yengalai Pol Yaarum illai (2020) [Multi-Audio]" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_2_5x/sources/r1/cms/prod/1398/551398-v" group-title="IN South [MultiAudio]",Yengalai Pol Yaarum illai (2020) [Multi-Audio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2020/Yengalai.Pol.Yaarum.illai.2020.720p.HDRip.Org.Auds.Tamil.Telugu.1.4GB.mkv
+#EXTINF:-1 tvg-name="The Forgotten Army - Azaadi ke liye (2020) [Multi-Audio]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iEKRHJB9lb4qT56h6Pf6aulLmXr.jpg" group-title="IN South [MultiAudio]",The Forgotten Army - Azaadi ke liye (2020) [Multi-Audio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2020/The.Forgotten.Army.Azaadi.ke.liye.2020.1080p.Proper.HDRip.DD5.1.192kbps.Telugu.Tamil.Hindi.2.6GB.ESub.mkv
+#EXTINF:-1 tvg-name="State of Siege 26-11 (2020) [Multi-Audio]" tvg-logo="http://tv.zaintv.net:80/images/t6iC0rlSwdvxNOOKqZW93iPDdY5_big.jpg" group-title="IN South [MultiAudio]",State of Siege 26-11 (2020) [Multi-Audio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2020/STATE.OF.SIEGE.26.11.2020.1080p.S01.Ep.01.08.HDRip.Telugu.Tamil.Hindi.2.3GB.ESub.mkv
+#EXTINF:-1 tvg-name="Jai Lava Kusa (2017) [Multi-Audio]" tvg-logo="http://tv.zaintv.net:80/images/uM4QeWS6dgLWGlZpE2XKa3GUnms_big.jpg" group-title="IN South [MultiAudio]",Jai Lava Kusa (2017) [Multi-Audio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2020/Sagodharargal.Jai.Lava.Kusa.2020.720p.HDRip.Org.Auds.Tam.Tel.Hin.1.4GB.ESub.mkv
+#EXTINF:-1 tvg-name="Naan Enna Summava MLA (2020) [Multi-Audio]" tvg-logo="https://tamilian.net/wp-content/uploads/2020/05/Naan-Enna-Summava-MLA-Poster.jpg" group-title="IN South [MultiAudio]",Naan Enna Summava MLA (2020) [Multi-Audio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2020/Naan.Enna.Summava.MLA.2020.720p.HDRip.Tamil.Telugu.Hindi.1.4GB.ESub.mkv
+#EXTINF:-1 tvg-name="Mastram (2014) [Multi-Audio]" tvg-logo="http://tv.zaintv.net:80/images/yANwS5NwTd0bsqZfyaKVQrCbch0_big.jpg" group-title="IN South [MultiAudio]",Mastram (2014) [Multi-Audio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2020/Mastram.2020.1080p.S.01.Ep.01.10.HDRip.Telugu.Tamil.Hindi.2.6GB.mkv
+#EXTINF:-1 tvg-name=" Loafer (2015) [Multi-Audio]" tvg-logo="http://tv.zaintv.net:80/images/Ca0kDiNRT9lwnWwZxCiI8RY58b_big.jpg" group-title="IN South [MultiAudio]", Loafer (2015) [Multi-Audio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2020/Loafer.2020.720p.Proper.HDRip.Tamil.Telugu.Hindi.1.4GB.mkv
+#EXTINF:-1 tvg-name="L.I.E (2020) [Multi-Audio]" tvg-logo="http://tv.zaintv.net:80/images/45ljrSSLlO11DThUUwvuoCqh8iP_big.jpg" group-title="IN South [MultiAudio]",L.I.E (2020) [Multi-Audio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2020/LIE.2020.720p.HDRip.Tam.Org.Aud.Tel.Hin.1.4GB.ESub.mkv
+#EXTINF:-1 tvg-name=" Kaithi (2019) [Multi-Audio]" tvg-logo="http://tv.zaintv.net:80/images/hOF9CgPsy9aLr5GJEBESC8MEXFy_big.jpg" group-title="IN South [MultiAudio]", Kaithi (2019) [Multi-Audio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2020/KAITHI.2020.720p.HDRip.Org.Auds.Malayalam.Tamil.Telugu.1.4GB.ESub.mkv
+#EXTINF:-1 tvg-name="Jaya Janaki Nayaka (2017) [Multi-Audio]" tvg-logo="http://tv.zaintv.net:80/images/eB2aF05kTEcH9Bhu5JY7BNNrgAm_big.jpg" group-title="IN South [MultiAudio]",Jaya Janaki Nayaka (2017) [Multi-Audio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2020/Janaki.Nayakan.2020.720p.HDRip.Malayalam.Telugu.Tamil.1.4GB.ESub.mkv
+#EXTINF:-1 tvg-name="Ivan Kavalkaran Kavacham (2020) [Multi-Audio]" tvg-logo="https://i.imgur.com/vzl5Pi5.jpg" group-title="IN South [MultiAudio]",Ivan Kavalkaran Kavacham (2020) [Multi-Audio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2020/Ivan.Kavalkaran.Kavacham.2020.720p.HDRip.Org.Auds.Tamil.Telugu.Hindi.1.4GB.ESub.mkv
+#EXTINF:-1 tvg-name="Inka Emaina (2020) [Multi-Audio]" tvg-logo="http://tv.zaintv.net:80/images/_big.jpg" group-title="IN South [MultiAudio]",Inka Emaina (2020) [Multi-Audio]
+http://vodlb1.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2020/Inka.Emaina.2020.720p.S.01.Ep.01.06.HDRip.Telugu.Tamil.750MB.mkv
+#EXTINF:-1 tvg-name="Gunjan Saxena: The Kargil Girl (2020) [Multi-Audio]" tvg-logo="http://tv.zaintv.net:80/images/llWz6LbVpGPChnNnhAiGJyPMDwP_big.jpg" group-title="IN South [MultiAudio]",Gunjan Saxena: The Kargil Girl (2020) [Multi-Audio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2020/Gunjan.Saxena.2020.1080p.Proper.WEB.DL.Org.Tel.Tam.Hin.Eng.2.5GB.ESub.mkv
+#EXTINF:-1 tvg-name="Darbar (2020) [Multi-Audio]" tvg-logo="http://tv.zaintv.net:80/images/vPYRg4Kwwj3w3waMPjGM9M7cLpV_big.jpg" group-title="IN South [MultiAudio]",Darbar (2020) [Multi-Audio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2020/DARBAR.2020.720p.HDRip.Org.Hindi.Tel.Tam.Mal.1.4GB.ESub.mkv
+#EXTINF:-1 tvg-name="College Kumar (2020) [Multi-Audio]" tvg-logo="http://tv.zaintv.net:80/images/t97JGFIgjTaexOYBIJAyuMLAxdD_big.jpg" group-title="IN South [MultiAudio]",College Kumar (2020) [Multi-Audio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2020/College.Kumar.2020.1080p.Telugu.TRUE.HDTV.Rip.x264.AAC.2.4GB.mkv
+#EXTINF:-1 tvg-name="CLASS of 83 (2020) [Multi-Audio]" tvg-logo="http://tv.zaintv.net:80/images/2CFOpEKVxIjRMeu8K9agmDZ2ms9_big.jpg" group-title="IN South [MultiAudio]",CLASS of 83 (2020) [Multi-Audio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2020/CLASS.of.83.2020.1080p.HDRip.HEVC.Tel.Tam.Hin.Eng.1.3GB.ESub.mkv
+#EXTINF:-1 tvg-name="Asura Vettai (2020) [Multi-Audio]" tvg-logo="https://movie9.github.io/media/posts/80/asuar-vettai-movie-poster.jpg" group-title="IN South [MultiAudio]",Asura Vettai (2020) [Multi-Audio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2020/Asura.Vettai.2020.720p.HDRip.Tamil.Org.Aud.Telugu.Hindi.Line.1.4GB.mkv
+#EXTINF:-1 tvg-name="Afsos (2020) [Multi-Audio]" tvg-logo="http://tv.zaintv.net:80/images/_big.jpg" group-title="IN South [MultiAudio]",Afsos (2020) [Multi-Audio]
+http://vodlb2.zaintv.net:80/meDia/MoVies/SouthMov/Tamil/2020/Afsos.2020.720p.S.1.Proper.HDRip.Tel.Tam.Hin.1.4GB.ESub.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hi Papa (2023)" tvg-logo="https://media5.bollywoodhungama.in/wp-content/uploads/2023/12/Hi-Papa.jpg" group-title="IN South [MultiAudio]",Hi Papa (2023)
+https://ia601509.us.archive.org/19/items/hi-papa-2023-hindi-dubbed-org-720p/Hi_Papa_%282023%29_Hindi_Dubbed_ORG_720p.mp4
 
 
 
